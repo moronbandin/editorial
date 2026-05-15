@@ -2,7 +2,13 @@
 
 ### Exercicios de INNOVACIÓN
 
-#### a) Analiza morfolóxicamente e traduce os seguintes substantivos da TERCEIRA en DIPTONGO
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - nouns
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes substantivos da TERCEIRA en DIPTONGO"
 
 Táboa:
 
@@ -12,18 +18,32 @@ Táboa:
 | Εὐρυσθέως |  |  |  |
 | βασιλέως |  |  |  |
 | Εὐρυσθεύς |  |  |  |
+::
 
-#### b) Identifica o valor das PREPOSICIÓNS
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - prepositions
+  - syntax
+instruction: "Identifica o valor das PREPOSICIÓNS"
 
 ἐπὶ μισθῷ
 
 ἐν ἡμέρᾳ μιᾷ
 
 ἐξ ἐπιταγῆς τοῦ βασιλέως
+::
 
 ### Exercicios de REPASO
 
-#### a) Analiza morfolóxicamente e traduce os seguintes substantivos da VOCÁLICA ALTERNANTE
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - nouns
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes substantivos da VOCÁLICA ALTERNANTE"
 
 Táboa:
 
@@ -31,8 +51,15 @@ Táboa:
 | --- | --- | --- | --- |
 | πόλεως |  |  |  |
 | πόλει |  |  |  |
+::
 
-#### b) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
@@ -63,10 +90,18 @@ Táboa:
 | ὑπομένουσαι |  |  |  |  |  |
 | ἀνεπέτοντο |  |  |  |  |  |
 | ἐτόξευσεν |  |  |  |  |  |
+::
 
-#### c) Identifica o valor da PREPOSICIÓN
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - prepositions
+  - syntax
+instruction: "Identifica o valor da PREPOSICIÓN"
 
 ἐπὶ τούτῳ
+::
 
 ---
 
@@ -74,7 +109,13 @@ Táboa:
 
 ### Exercicios de REPASO
 
-#### a) Analiza morfolóxicamente e traduce os seguintes substantivos da TERCEIRA en DIPTONGO
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - nouns
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes substantivos da TERCEIRA en DIPTONGO"
 
 Táboa:
 
@@ -82,8 +123,15 @@ Táboa:
 | --- | --- | --- | --- |
 | Εὐρυσθέα |  |  |  |
 | Εὐρυσθεῖ |  |  |  |
+::
 
-#### b) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
@@ -98,10 +146,16 @@ Táboa:
 | ἐνεγκών |  |  |  |  |  |
 | πάρεσχεν |  |  |  |  |  |
 | ᾤκουν |  |  |  |  |  |
+::
 
 ### Exercicios de INNOVACIÓN
 
-#### a) Substitúe o substantivo subliñado pola forma que corresponda do substantivo que está entre parénteses
+::exercise
+type: transform
+difficulty: medium
+focus:
+  - nouns
+instruction: "Substitúe o substantivo subliñado pola forma que corresponda do substantivo que está entre parénteses"
 
 1. οἱ ἄνδρες ἦσαν πρὸς τῷ ἱερῷ, τῷ θεῷ εὐχόμενοι (ὁ ἱερεύς)
 2. ὁ στρατηγὸς τοὺς ἄνδρας ἐκέλευον τὰ ὅπλα ἐκ τῶν πλοίων ἐκφέρειν (ἡ τριήρης)
@@ -112,8 +166,14 @@ Táboa:
 7. τοῦ ἀνδρὸς ἤκουσα ἡμᾶς κελεύοντος σιγῆσαι (ὁ βασιλεύς)
 8. ὁ ναύτης ἡγήσατό μοι παρὰ ξένου τινὰ ἐκ πλοίου τινὸς ἐκβαίνοντα (τριήρης τις)
 9. οἱ γεωργοὶ τὰ ζῷα ἐξελάσαντες διὰ τῶν τόπων ἦγον (τὸ ὄρος)
+::
 
-#### b) Pon o ADXECTIVO entre parénteses no xénero, número e caso que lle corresponda
+::exercise
+type: translate
+difficulty: medium
+focus:
+  - adjectives
+instruction: "Pon o ADXECTIVO entre parénteses no xénero, número e caso que lle corresponda"
 
 1. οἵδε οἱ ναῦται πλοῖα ἔχουσιν. (ταχύς)
 2. λίθους εἰς τὸ ἱερὸν οἱ χειροτέχναι ἔφερον. (βαρύς)
@@ -123,8 +183,15 @@ Táboa:
 6. ὁ ναύτης οὐκ ἤθελε ταῖς γυναιξὶ πρὸς τὸ ἄστυ ἡγήσασθαι. (ἡδύς)
 7. ὁ δοῦλος τὸν σῖτον ἔφερε ἐπὶ τοῖς ὤμοις (εὐρύς)
 8. ὁ παῖς τὰς βοὰς τὰς τῶν γυναικῶν ἀκούσας ἐφοβήσατο. (ὀξύς)
+::
 
-#### c) Substitúe o PARTICIPIO polo que corresponda do verbo entre parénteses
+::exercise
+type: transform
+difficulty: medium
+focus:
+  - participles
+  - verbs
+instruction: "Substitúe o PARTICIPIO polo que corresponda do verbo entre parénteses"
 
 1. οἱ πολῖται οἱ βουλόμενοι τὴν ἑορτὴν θεάσθαι πρὸς τὸ ἄστυ ἔσπευδον (ἐθέλω)
 2. οἱ γεωργοὶ εἰς τοὺς ἀγροὺς ἀφικόμενοι τὰ ζῷα ἔλιπον πρὸς δένδρῳ τινί (ἥκω)
@@ -132,14 +199,15 @@ Táboa:
 4. πολὺν χρόνον ἔμειναν ἐν τῇ ἀγορᾷ οἱ πολῖται τὴν ἑορτὴν θεασάμενοι (ὁράω)
 5. γιγνώσκετε τὴν γυναῖκα τὴν εἰς τὴν αὐλὴν ἐρχομένην; (βαδίζω)
 6. τοῦ ξένου ἠκούσαμεν εὐχομένου (βοάω)
+::
 
-### III
-
-παραλαβὼν οὖν ῾Ηρακλῆς συμμάχους ἐν ἑνὶ πλοίῳ ἔπλει εἰς τὴν τῶν ᾽Αμαζόνων γῆν. ὡς δὲ ἀποβαίνουσιν οἱ ῞Ελληνες εἰς τὸν λιμένα, παραγίνεται εἰς αὐτοὺς ῾Ιππολύτη καὶ, διὰ τί ἀφικνοῦνται πυθομένη, παρασχεῖν αὐτοῖς τὸν ζωστῆρα ὑπισχνεῖται.
-
-῞Ηρα μέντοι, ὁμοία ᾽Αμαζόνι γενομένη, τὸ πλῆθος ὤργιζεν, λέγουσα ὅτι τὴν βασιλίδα ἁρπάζουσιν οἱ ξένοι. αἱ δὲ μεθ᾽ ὅπλων ἐπὶ τὸ πλοῖον ἔδραμον ἐφ᾽ ἵππων. ὡς δὲ εἶδεν αὐτὰς ῾Ηρακλῆς, μάλιστα φοβησάμενος, τὴν μὲν ῾Ιππολύτην ἀποκτείνας τὸν ζωστῆρα λαμβάνει, πρὸς δὲ τὰς λοιπὰς μαχεσάμενος ἀποπλεῖ. ἐνεγκὼν δὲ τὸν ζωστῆρα εἰς Μυκήνας παρέχει Εὐρυσθεῖ.
-
-#### a) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
@@ -156,23 +224,43 @@ Táboa:
 | φοβησάμενος |  |  |  |  |  |
 | ἀποκτείνας |  |  |  |  |  |
 | ἐνεγκών |  |  |  |  |  |
+::
 
-#### b) Identifica o valor da PREPOSICIÓN
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - prepositions
+  - syntax
+instruction: "Identifica o valor da PREPOSICIÓN"
 
 ἐφ᾽ ἵππων
+::
 
 ### Exercicios de INNOVACIÓN
 
-#### a) Substitúe as formas subliñadas polo PARTICIPIO DE PRESENTE ACTIVO do verbo entre parénteses
+::exercise
+type: transform
+difficulty: medium
+focus:
+  - participles
+  - verbs
+instruction: "Substitúe as formas subliñadas polo PARTICIPIO DE PRESENTE ACTIVO do verbo entre parénteses"
 
-1. ἀπῇλθον ἐκεῖνοι ....... (γελάω).
-2. τὸν λύκον τοὺς παῖδας ....... εἴδομεν (διώκω).
-3. ἄνδρας τινὰς εἰς τὸ ἱερὸν ....... εἴδομεν (εἰσβαίνω).
-4. ὁ ᾽Οδυσσεὺς ᾽Ιθάκην ....... εἰς νῆσον Αἰολίαν ἀφίκετο (ζητέω).
-5. ἐμοὶ ....... οἱ παῖδες οὐδὲν ἀπεκρίναντο (ἐρωτάω).
-6. ἠκούσαμεν τὸν βάκτρον τὸν τοῦ διδασκάλου τοὺς παῖδας ....... (τύπτω).
+1. ἀπῇλθον ἐκεῖνοι {{blank}} (γελάω).
+2. τὸν λύκον τοὺς παῖδας {{blank}} εἴδομεν (διώκω).
+3. ἄνδρας τινὰς εἰς τὸ ἱερὸν {{blank}} εἴδομεν (εἰσβαίνω).
+4. ὁ ᾽Οδυσσεὺς ᾽Ιθάκην {{blank}} εἰς νῆσον Αἰολίαν ἀφίκετο (ζητέω).
+5. ἐμοὶ {{blank}} οἱ παῖδες οὐδὲν ἀπεκρίναντο (ἐρωτάω).
+6. ἠκούσαμεν τὸν βάκτρον τὸν τοῦ διδασκάλου τοὺς παῖδας {{blank}} (τύπτω).
+::
 
-#### b) Escribe o ADXECTIVO entre parénteses nas distintas posibilidades de posición
+::exercise
+type: translate
+difficulty: medium
+focus:
+  - adjectives
+instruction: "Escribe o ADXECTIVO entre parénteses nas distintas posibilidades de posición"
 
 1. ὁ στρατὸς ἡμῶν ἑλεῖν τὴν ναῦν ἐβούλετο. (ἔσχατος)
 2. οἱ πολέμιοι διὰ τοῦ ἄστεος ἐπορεύοντο. (μέσος)
@@ -181,11 +269,18 @@ Táboa:
 5. ἐν τῷ ὄρει τὸ νέον ἱερὸν ᾠκοδομεῖτο. (ὑψηλός)
 6. οἱ ξένοι εἰς τὸν οἶκον ἔβαινον. (μέσος)
 7. οἱ πολέμιοι ἐν τῇ πέτρᾳ ἐκρύφαντο. (ἄκρος)
+::
 
-#### c) Completa as seguintes oracións coas expresións de tempo que están entre parénteses
+::exercise
+type: fill-gaps
+difficulty: medium
+focus:
+  - review
+instruction: "Completa as seguintes oracións coas expresións de tempo que están entre parénteses"
 
-1. ......... οἱ πολέμιοι πᾶσαν τὴν χώραν διέφθειραν (τὸ αὐτὸ θέρος).
-2. πολλοὶ δοῦλοι ......... ἐν τῷ κλήρῳ ἠργάζοντο (ἔαρ).
-3. ......... οἱ στρατηγοὶ μάχεσθαι ἐβούλοντο (τὸ αὐτὸ ἔτος).
-4. οἱ γεωργοὶ ......... εἰς τὸ ἄστυ ἐπορεύσαντο (ἡ ὑστεραία).
-5. ......... οἱ πολέμιοι τὸ στρατόπεδον προσέβαλον (νύξ).
+1. {{blank}} οἱ πολέμιοι πᾶσαν τὴν χώραν διέφθειραν (τὸ αὐτὸ θέρος).
+2. πολλοὶ δοῦλοι {{blank}} ἐν τῷ κλήρῳ ἠργάζοντο (ἔαρ).
+3. {{blank}} οἱ στρατηγοὶ μάχεσθαι ἐβούλοντο (τὸ αὐτὸ ἔτος).
+4. οἱ γεωργοὶ {{blank}} εἰς τὸ ἄστυ ἐπορεύσαντο (ἡ ὑστεραία).
+5. {{blank}} οἱ πολέμιοι τὸ στρατόπεδον προσέβαλον (νύξ).
+::

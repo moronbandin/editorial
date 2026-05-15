@@ -2,13 +2,26 @@
 
 ### Exercicios de INNOVACIÓN
 
-#### a) Identifica o PARTICIPIO SUSTANTIVADO, e logo traduce
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - participles
+  - syntax
+instruction: "Identifica o PARTICIPIO SUSTANTIVADO, e logo traduce"
 
 τοὺς προσβάλλοντας ἀπέκτεινε
+::
 
 ### Exercicios de REPASO
 
-#### a) Analiza morfolóxicamente e traduce os seguintes substantivos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - nouns
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes substantivos"
 
 Táboa:
 
@@ -18,8 +31,15 @@ Táboa:
 | βασιλέως |  |  |  |
 | τοκέων |  |  |  |
 | Πλαταιέων |  |  |  |
+::
 
-#### b) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
@@ -47,30 +67,50 @@ Táboa:
 | ἀπέκτεινε |  |  |  |  |  |
 | ὀργισάμενος |  |  |  |  |  |
 | παρεγένετο |  |  |  |  |  |
+::
 
-#### c) Comenta as PARTICULARIDADES sintácticas das seguintes secuencias
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - syntax
+instruction: "Comenta as PARTICULARIDADES sintácticas das seguintes secuencias"
 
-πορευομένου δὲ ποτε τοῦ βασιλέως εἰς Δελφούς, ὁ θεὸς ἐκέλευσεν ...
+πορευομένου δὲ ποτε τοῦ βασιλέως εἰς Δελφούς, ὁ θεὸς ἐκέλευσεν {{blank}}
 
 Οἰδίποδος οὐ πειθομένου, ἀπέκτεινε τῶν ἵππων τὸν ἕτερον
+::
 
-#### d) Identifica o valor da PREPOSICIÓN
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - prepositions
+  - syntax
+instruction: "Identifica o valor da PREPOSICIÓN"
 
 μετὰ τὸν ᾽Αμφίονος θάνατον
 
 ἐφ᾽ ἅρματος
 
 κατά τινα στενὴν ὁδόν
+::
 
 ---
 
 # β
 
-#### b) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
-| forma | n1/ persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | βασιλεύοντος |  |  |  |  |  |
 | κάτεσχε |  |  |  |  |  |
@@ -83,65 +123,103 @@ Táboa:
 | ἀποθανόντων |  |  |  |  |  |
 | λῦσαι |  |  |  |  |  |
 | παρασχεῖν |  |  |  |  |  |
+::
 
-#### c) Comenta as PARTICULARIDADES sintácticas das seguintes secuencias
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - syntax
+instruction: "Comenta as PARTICULARIDADES sintácticas das seguintes secuencias"
 
 τούτου δὲ βασιλεύοντος, οὐ μικρὰ συμφορὰ κάτεσχε Θήβας
 
 πάντας τοὺς οὐ λύοντας τὸ αἴνιγμα ἁρπάσασα κατήσθιεν
 
 πολλῶν ἀποθανόντων, παρακαλεῖ Κρέων τοὺς πολίτας
+::
 
-#### A) Completa estas oracións enchendo o espacio libre coa forma correcta do participio que vai entre paréntese. A continuación tradúceas
+::exercise
+type: fill-gaps
+difficulty: medium
+focus:
+  - participles
+instruction: "Completa estas oracións enchendo o espacio libre coa forma correcta do participio que vai entre paréntese. A continuación tradúceas"
 
-Por exemplo: οἱ πολῖται τὸν ......... εἶδον. (εἰσβαίνων)
+Por exemplo: οἱ πολῖται τὸν {{blank}} εἶδον. (εἰσβαίνων)
 
 Queda: οἱ πολῖται τὸν εἰσβαίνοντα εἶδον. Os cidadáns viron ao que entraba.
 
-1. πάντες οἱ ......... ἔσπευδον εἰς τὸν λιμένα (παρών)
-2. ὁ γεωργὸς πάντα τὰ ......... τῷ ἄρχοντι εἶπεν (γενόμενος)
-3. οἱ τὸ θέατρον ......... μάλα χαίρουσιν (ὁρῶν)
-4. ἆρ᾽ ὁρᾷς τοὺς ἐν τῷ ἀγρῷ .........; (ἐργαζόμενος)
-5. οὗτοι οἱ δοῦλοι τὸ ......... οὐδέποτε ποιοῦσιν (κελευόμενος)
-6. ὁ γέρων οὐ δύναται ἰδεῖν τοὺς θόρυβον ......... (ποιῶν)
+1. πάντες οἱ {{blank}} ἔσπευδον εἰς τὸν λιμένα (παρών)
+2. ὁ γεωργὸς πάντα τὰ {{blank}} τῷ ἄρχοντι εἶπεν (γενόμενος)
+3. οἱ τὸ θέατρον {{blank}} μάλα χαίρουσιν (ὁρῶν)
+4. ἆρ᾽ ὁρᾷς τοὺς ἐν τῷ ἀγρῷ {{blank}}; (ἐργαζόμενος)
+5. οὗτοι οἱ δοῦλοι τὸ {{blank}} οὐδέποτε ποιοῦσιν (κελευόμενος)
+6. ὁ γέρων οὐ δύναται ἰδεῖν τοὺς θόρυβον {{blank}} (ποιῶν)
+::
 
-#### B) Completa cada oración co participio máis apropiado e logo tradúcea
+::exercise
+type: fill-gaps
+difficulty: medium
+focus:
+  - participles
+instruction: "Completa cada oración co participio máis apropiado e logo tradúcea"
 
-γενομένου, ὄντων, τελευτώντος, ἀποχωρησάντων, στρατηγοῦντος, εἰπόντος
+{γενομένου|ὄντων|τελευτώντος|ἀποχωρησάντων|στρατηγοῦντος|εἰπόντος}
 
-1. Περικλέους ........., ἐκρατήσαμεν πάσης τῆς χώρας
-2. τοῦ θέρους ........., οἱ ᾽Αθηναῖοι εἴκοσι τριήρεις ἔπεμψαν εἰς Σικελίαν
-3. ταῦτα τοῦ ἀγγέλου ........., οἱ πολῖται παρὰ τὰς γυναῖκας ἦλθον
-4. ......... τούτου, οἱ παῖδες μάλα φοβοῦνται
-5. ......... τῶν συμμάχων, ἐκρατήσαμεν τῶν πολεμίων
-6. ......... τῶν πολεμίων ἐν τῇ γῇ, ἐπέμψαμεν ἑκατὸν τριήρεις περὶ Πελοπόννησον
+1. Περικλέους {{blank}}, ἐκρατήσαμεν πάσης τῆς χώρας
+2. τοῦ θέρους {{blank}}, οἱ ᾽Αθηναῖοι εἴκοσι τριήρεις ἔπεμψαν εἰς Σικελίαν
+3. ταῦτα τοῦ ἀγγέλου {{blank}}, οἱ πολῖται παρὰ τὰς γυναῖκας ἦλθον
+4. {{blank}} τούτου, οἱ παῖδες μάλα φοβοῦνται
+5. {{blank}} τῶν συμμάχων, ἐκρατήσαμεν τῶν πολεμίων
+6. {{blank}} τῶν πολεμίων ἐν τῇ γῇ, ἐπέμψαμεν ἑκατὸν τριήρεις περὶ Πελοπόννησον
+::
 
-#### C) Traduce as seguintes oracións. Expresa logo o mesmo contido a través de oracións con εἰμί e dativo posesivo
+::exercise
+type: transform
+difficulty: medium
+focus:
+  - dative
+instruction: "Traduce as seguintes oracións. Expresa logo o mesmo contido a través de oracións con εἰμί e dativo posesivo"
 
 1. οὐ πᾶσαι αἱ πόλεις τοὺς αὐτοὺς νόμους ἔχουσιν.
 2. ὅδε ὁ ἀνὴρ ἰσχυρὰν ψυχὴν ἔχει.
 3. ὁ βασιλεὺς δύο παῖδας εἶχεν.
 4. ὅδε ὁ ἀνὴρ οὐκ ὀλίγα χρήματα ἔχει.
 5. ὄνομα ἔχω ᾽Αλέξανδρον.
+::
 
-#### D) Completa cada oración coa preposición apropiada e logo tradúcea
+::exercise
+type: preposition-completion
+difficulty: medium
+focus:
+  - prepositions
+  - syntax
+instruction: "Completa cada oración coa preposición apropiada e logo tradúcea"
 
-1. οἱ ῞Ελληνες ἀγγέλλους ἔπεμπον ..... βασιλέα. (μετά, παρά, διά)
-2. ἐγὼ μέγα δύναμαι ..... τῇδε τῇ πόλει. (διά, ἐν, περί)
-3. πολλοὶ ἄνθρωποι τὴν ψυχὴν διαφθείρουσι ..... βραχεῖαν ἡδονήν (ὑπό, διά, ἐν)
-4. ἄγγελός τις ἀφίκετο ..... τοῦ ἄστεως (εἰς, ἀπό, ἐν)
-5. ἥδε ἡ ὁδὸς ..... τοῦ ὄρους φέρει ..... τὴν πόλιν (εἰς, ἀπό, διά)
-6. οἱ πολέμιοι ἀναβαίνουσιν ..... τὴν πόλιν (διά, ἐν, ἐπί)
+1. οἱ ῞Ελληνες ἀγγέλλους ἔπεμπον {{blank}} βασιλέα. ({μετά|παρά|διά})
+2. ἐγὼ μέγα δύναμαι {{blank}} τῇδε τῇ πόλει. ({διά|ἐν|περί})
+3. πολλοὶ ἄνθρωποι τὴν ψυχὴν διαφθείρουσι {{blank}} βραχεῖαν ἡδονήν ({ὑπό|διά|ἐν})
+4. ἄγγελός τις ἀφίκετο {{blank}} τοῦ ἄστεως ({εἰς|ἀπό|ἐν})
+5. ἥδε ἡ ὁδὸς {{blank}} τοῦ ὄρους φέρει {{blank}} τὴν πόλιν ({εἰς|ἀπό|διά})
+6. οἱ πολέμιοι ἀναβαίνουσιν {{blank}} τὴν πόλιν ({διά|ἐν|ἐπί})
+::
 
 ---
 
 # γ
 
-#### a) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
-| forma | n1/ persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | ἀκούσας |  |  |  |  |  |
 | λεγόμενον |  |  |  |  |  |
@@ -156,42 +234,45 @@ Táboa:
 | κουψάμενος |  |  |  |  |  |
 | γενόμενος |  |  |  |  |  |
 | ἠλαύνετο |  |  |  |  |  |
+::
 
-#### b) Comenta as PARTICULARIDADES sintácticas das seguintes secuencias
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - syntax
+instruction: "Comenta as PARTICULARIDADES sintácticas das seguintes secuencias"
 
 ἔλυσε τὸ αἴνιγμα τὸ ὑπὸ τῆς Σφιγγὸς λεγόμενον
 
 τρίτην λαμβάνει βάσιν τὸ βάκτρον
 
 παῖδας ἐτέκνωσεν ἐξ αὐτῆς Πολυνείκην καὶ ᾽Ετεοκλέα
+::
 
-#### A) Traduce ao grego cada oración galega elixindo correctamente as palabras gregas
+::exercise
+type: sentence-building
+difficulty: medium
+focus:
+  - review
+instruction: "Traduce ao grego cada oración galega elixindo correctamente as palabras gregas"
 
 1. Moitas flores eran arroxadas polos espectadores.
-
-πολλὰ--- ἄνθους --- ὑπὸ τῶν πολιτῶν ---- ἐβάλλον
-
-πολλοὶ--- ἄνθοι --- ἐν τοῖς πολίταιν --- ἐβάλλοντο
-
+{πολλὰ|πολλοὶ} {ἄνθους|ἄνθοι} {ὑπὸ τῶν πολιτῶν|ἐν τοῖς πολίταιν} {ἐβάλλον|ἐβάλλοντο}
 2. Éramos obstaculizados polas frechas dos inimigos.
-
-τοῖς τόξοις--- τοῖς πολεμίοις --- κωλύόμεθα
-
-τὰ τόξα ----- τῶν πολεμίων --- ἐκωλυόμεθα
-
+{τοῖς τόξοις|τὰ τόξα} {τοῖς πολεμίοις|τῶν πολεμίων} {κωλύόμεθα|ἐκωλυόμεθα}
 3. Eu estaba sendo curado por un médico moi experimentado.
-
-ὑπ᾽ ἰατροῦ --------- ἔμπειρος ----- ἐθεραπευόμην
-
-παρὰ ἰατρῷ --- ἔμπειρου--- θεραπεύομαι
-
+{ὑπ᾽ ἰατροῦ|παρὰ ἰατρῷ} {ἔμπειρος|ἔμπειρου} {ἐθεραπευόμην|θεραπεύομαι}
 4. Os inimigos eran asediados polo noso exército.
+{οἱ πολέμιοι|ὁ πολέμιος} {διὰ τὸν στρατόν|ὑπὸ τοῦ στρατοῦ} {ἡμέτερον|ἡμέτερος} {ἐπολιορκεῖτο|ἐπολιορκοῦντο}
+::
 
-οἱ πολέμιοι --- διὰ τὸν στρατόν--- ἡμέτερον --- ἐπολιορκεῖτο
-
-ὁ πολέμιος --- ὑπὸ τοῦ στρατοῦ --- ἡμέτερος --- ἐπολιορκοῦντο
-
-#### B) Selecciona a oración adecuada para completar ao relativo, e logo traduce
+::exercise
+type: matching
+difficulty: medium
+focus:
+  - relatives
+instruction: "Selecciona a oración adecuada para completar ao relativo, e logo traduce"
 
 πολλάκις ἐν τῇ ὕλῃ ἑώρων
 
@@ -209,11 +290,12 @@ Táboa:
 
 διὰ τῶν ὁδῶν ἔτρεχεν
 
-1. οἱ ναῦται, οὓς ........., ἡμῖν βοηθεῖν οὐκ ἠθέλησαν.
-2. οἱ δοῦλοι, ὑφ᾽ ὧν ........., ἤδη ἔκαμνον.
-3. ὁ γεωργός, ᾧ ........., οὐ πολλὰ ἀργύρια εἶχεν.
-4. ὁ παῖς, οὗ ........., παρὰ τὸν διδάσκαλον οὐκ ἐβούλετο ἐλθεῖν.
-5. οὐδεὶς λαβεῖν ἐδύνατο τὸν ἵππον, ὃς ......... 
-6. οἱ γεωργοὶ μάλα ἐφοβοῦντο τὰ θηρία, ἃ ......... 
-7. οἱ ξένοι, οἷς ........., τὸν οἶνον ἐπήνεσαν.
-8. οἱ πολῖται, ὧν ........., τὸ θέατρον ἐθεῶντο.
+1. οἱ ναῦται, οὓς {{blank}}, ἡμῖν βοηθεῖν οὐκ ἠθέλησαν.
+2. οἱ δοῦλοι, ὑφ᾽ ὧν {{blank}}, ἤδη ἔκαμνον.
+3. ὁ γεωργός, ᾧ {{blank}}, οὐ πολλὰ ἀργύρια εἶχεν.
+4. ὁ παῖς, οὗ {{blank}}, παρὰ τὸν διδάσκαλον οὐκ ἐβούλετο ἐλθεῖν.
+5. οὐδεὶς λαβεῖν ἐδύνατο τὸν ἵππον, ὃς {{blank}}
+6. οἱ γεωργοὶ μάλα ἐφοβοῦντο τὰ θηρία, ἃ {{blank}}
+7. οἱ ξένοι, οἷς {{blank}}, τὸν οἶνον ἐπήνεσαν.
+8. οἱ πολῖται, ὧν {{blank}}, τὸ θέατρον ἐθεῶντο.
+::

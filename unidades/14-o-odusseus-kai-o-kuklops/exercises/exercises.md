@@ -2,13 +2,25 @@
 
 ### Exercicios de INNOVACIÓN
 
-#### a) Analiza morfolóxicamente as seguintes formas do adxectivo πᾶς
+::exercise
+type: identify-forms
+difficulty: easy
+focus:
+  - adjectives
+  - morphology
+instruction: "Analiza morfolóxicamente as seguintes formas do adxectivo πᾶς"
 
 ἄγε οὖν πάντας τοὺς αἶγας πρὸς τὸ πλοῖον
 
 πάντες οἱ αἶγες ἔνδον εἰσίν
+::
 
-#### b) Analiza morfolóxicamente e traduce os seguintes pronomes
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes pronomes"
 
 Táboa:
 
@@ -17,19 +29,34 @@ Táboa:
 | οὐδένα |  |  |  |
 | οὐδείς |  |  |  |
 | εἷς |  |  |  |
+::
 
-#### c) Analiza morfolóxicamente e traduce as seguintes formas verbais
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce as seguintes formas verbais"
 
 Táboa:
 
-| forma | n1/persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | ἔφασαν |  |  |  |  |  |
 | ἔφην |  |  |  |  |  |
+::
 
-#### d) Identifica o valor da preposición ἐπὶ + ACUSATIVO
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - prepositions
+  - accusative
+  - syntax
+instruction: "Identifica o valor da preposición ἐπὶ + ACUSATIVO"
 
 ἐπὶ τοὺς ἑταίρους
+::
 
 ---
 
@@ -37,7 +64,13 @@ Táboa:
 
 ### REPASO
 
-#### a) Analiza morfolóxicamente e traduce os seguintes substantivos da TERCEIRA NEUTRA
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - nouns
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes substantivos da TERCEIRA NEUTRA"
 
 Táboa:
 
@@ -45,22 +78,35 @@ Táboa:
 | --- | --- | --- | --- |
 | σώματα |  |  |  |
 | ὄνομα |  |  |  |
+::
 
-#### b) Analiza morfolóxicamente e traduce as seguintes formas verbais
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce as seguintes formas verbais"
 
 Táboa:
 
-| forma | n1/persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | ἔφη |  |  |  |  |  |
 | φησὶ |  |  |  |  |  |
 | φημί |  |  |  |  |  |
+::
 
-#### c) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
-| forma | n1/persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | ἀπεκρίνατο |  |  |  |  |  |
 | ὡρμήσατο |  |  |  |  |  |
@@ -73,12 +119,24 @@ Táboa:
 | ἔπιεν |  |  |  |  |  |
 | ἐρωτᾷς |  |  |  |  |  |
 | φαγεῖν |  |  |  |  |  |
+::
 
-#### d) Traduce e comenta a PARTICULARIDADE sintáctica
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - syntax
+instruction: "Traduce e comenta a PARTICULARIDADE sintáctica"
 
 Οὐδεὶς ἐμοὶ τὸ ὄνομα
+::
 
-#### A) Completa estas oracións describindo as palabras suliñadas coa forma correcta do adxectivo πᾶς. A continuación tradúceas
+::exercise
+type: adjective-completion
+difficulty: medium
+focus:
+  - adjectives
+instruction: "Completa estas oracións describindo as palabras suliñadas coa forma correcta do adxectivo πᾶς. A continuación tradúceas"
 
 1. οὐ δυνατόν ἐστιν τοὺς παῖδας κομίζειν εἰς τὴν νῆσον.
 
@@ -99,32 +157,45 @@ Táboa:
 9. ἡ παρθένος τὸ δεῖπνον τῷ πατρὶ παρέχει.
 
 10. ὁ πατὴρ τὰς θυγατέρας ἐκέλευσε παρασκευάζεσθαι.
+::
 
-#### B) Completa cada oración coa preposición apropiada e logo tradúcea.
+::exercise
+type: preposition-completion
+difficulty: medium
+focus:
+  - prepositions
+  - syntax
+instruction: "Completa cada oración coa preposición apropiada e logo tradúcea."
 
-1. ὁ βασιλεὺς ..... τὴν ῾Ελλάδα ἐθέλει στρατεύεσθαι (ἐπί, ἐν, μετά)
+1. ὁ βασιλεὺς {{blank}} τὴν ῾Ελλάδα ἐθέλει στρατεύεσθαι ({ἐπί|ἐν|μετά})
 
-2. οἱ Πελοποννήσιοι ἔρχονται ..... Κορίνθου ..... τὰς ᾽Αθήνας (ἐπί, ἐν, ἐκ)
+2. οἱ Πελοποννήσιοι ἔρχονται {{blank}} Κορίνθου {{blank}} τὰς ᾽Αθήνας ({ἐπί|ἐν|ἐκ})
 
-3. ..... τί μένετε; (διά, ἐκ, ὑπό)
+3. {{blank}} τί μένετε; ({διά|ἐκ|ὑπό})
 
-4. οἱ στρατιῶται ..... τὴν μάχην τοὺς νέκρους ἔθαψαν (ὑπό, διά, μετά)
+4. οἱ στρατιῶται {{blank}} τὴν μάχην τοὺς νέκρους ἔθαψαν ({ὑπό|διά|μετά})
 
-5. οἱ ῾Ελληνες πλέουσιν ..... τὸν ῾Ελλήσποντον (μετά, ἀπό, ἐπί)
+5. οἱ ῾Ελληνες πλέουσιν {{blank}} τὸν ῾Ελλήσποντον ({μετά|ἀπό|ἐπί})
 
-6. πάντες βούλονται ..... τοῦ πράγματος βουλεύεσθαι (περί, ἐπί, ἐν)
+6. πάντες βούλονται {{blank}} τοῦ πράγματος βουλεύεσθαι ({περί|ἐπί|ἐν})
 
-7. ..... Καμβύσῃ Δαρεῖος Περσῶν ἐβασίλευσε (ὑπό, παρά, μετά)
+7. {{blank}} Καμβύσῃ Δαρεῖος Περσῶν ἐβασίλευσε ({ὑπό|παρά|μετά})
 
-8. τοὺς πολεμίους ..... τοῖς πλοῖς ἥρομεν. (διά, πρός, μετά)
+8. τοὺς πολεμίους {{blank}} τοῖς πλοῖς ἥρομεν. ({διά|πρός|μετά})
 
-9. οἱ ῾Ελληνες πλέουσιν ..... τὸν ῾Ελλήσποντον (ἐπί, διά, ἐν)
+9. οἱ ῾Ελληνες πλέουσιν {{blank}} τὸν ῾Ελλήσποντον ({ἐπί|διά|ἐν})
 
-10. ὁ στρατηγὸς εἴκοσι στρατιώτας κατέλιπε ..... τοῖς συμμάχοις (παρά, μετά, εἰς)
+10. ὁ στρατηγὸς εἴκοσι στρατιώτας κατέλιπε {{blank}} τοῖς συμμάχοις ({παρά|μετά|εἰς})
 
-11. ὁ γέρων τὰ ἀργύρια ἔκρυψεν ..... λίθῳ μεγάλῳ (ὑπό, περί, μετά)
+11. ὁ γέρων τὰ ἀργύρια ἔκρυψεν {{blank}} λίθῳ μεγάλῳ ({ὑπό|περί|μετά})
+::
 
-#### C) Traduce as seguintes oracións. Expresa logo o mesmo contido a través de oracións con εἰμι e dativo posesivo.
+::exercise
+type: transform
+difficulty: medium
+focus:
+  - dative
+instruction: "Traduce as seguintes oracións. Expresa logo o mesmo contido a través de oracións con εἰμι e dativo posesivo."
 
 1. ἔχω πέντε ἀδελφούς.
 
@@ -135,6 +206,7 @@ Táboa:
 4. ὅδε ὁ γεωργὸς μικρὸν κλῆρον ἔχει.
 
 5. οἱ ᾽Αθηναῖοι πολλοὺς καὶ ἀγαθοὺς συμμάχους εἶχον.
+::
 
 ---
 
@@ -142,11 +214,17 @@ Táboa:
 
 ### REPASO
 
-#### a) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
-| forma | n1/persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | ηὗρον |  |  |  |  |  |
 | ἐκέλευσα |  |  |  |  |  |
@@ -161,38 +239,63 @@ Táboa:
 | ἐξῆρε |  |  |  |  |  |
 | ἐξέπεμψε |  |  |  |  |  |
 | ἔκρυψα |  |  |  |  |  |
+::
 
-#### b) Identifica o valor da PREPOSICIÓN
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - prepositions
+  - syntax
+instruction: "Identifica o valor da PREPOSICIÓN"
 
 ὑπὸ τοῖς αἰξί
+::
 
-#### c) Traduce e comenta as PARTICULARIDADES sintácticas das seguintes secuencias
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - syntax
+instruction: "Traduce e comenta as PARTICULARIDADES sintácticas das seguintes secuencias"
 
 τὸν ἕνα ὀφθαλμὸν τὸν τοῦ γίγαντος
 
 οἱ δὲ Κύκλωπες οἱ ἐν τῇ νήσῳ ᾤκουν τῆς βοῆς ἤκουσαν
+::
 
-#### A) Complementa cada oración co caso apropiado da expresión que se che ofrece entre parénteses, e logo traduce.
+::exercise
+type: fill-gaps
+difficulty: medium
+focus:
+  - review
+instruction: "Complementa cada oración co caso apropiado da expresión que se che ofrece entre parénteses, e logo traduce."
 
-1. οἱ πολῖται ......... οὐκ ἀεὶ πείθονται (οἱ ῥήτορες)
+1. οἱ πολῖται {{blank}} οὐκ ἀεὶ πείθονται (οἱ ῥήτορες)
 
-2. παιδές τινες ......... εἰς τὸν ἀγρὸν εἰσήγαγον (ὁ κύων)
+2. παιδές τινες {{blank}} εἰς τὸν ἀγρὸν εἰσήγαγον (ὁ κύων)
 
-3. ὁ ναύτης ......... ἤγαγεν εἰς τὸν λιμένα (οἱ ἄνδρες)
+3. ὁ ναύτης {{blank}} ἤγαγεν εἰς τὸν λιμένα (οἱ ἄνδρες)
 
-4. ......... ἀφίκοντο εἰς τὴν κρήνην (πολλαὶ γυναῖκες)
+4. {{blank}} ἀφίκοντο εἰς τὴν κρήνην (πολλαὶ γυναῖκες)
 
-5. τὰ ζῷα τὸ ......... δεῖπνον ἔφαγεν (οἱ παῖδες)
+5. τὰ ζῷα τὸ {{blank}} δεῖπνον ἔφαγεν (οἱ παῖδες)
 
-6. οἱ παῖδες ἐκαθίζοντο ἐν τῇ ......... αὐλῇ (ὁ γέρων)
+6. οἱ παῖδες ἐκαθίζοντο ἐν τῇ {{blank}} αὐλῇ (ὁ γέρων)
 
-7. οὐκ ὀλίγοι πολῖται δῶρα ....... ἐπέτρεψαν (ὁ ἄρχων)
+7. οὐκ ὀλίγοι πολῖται δῶρα {{blank}} ἐπέτρεψαν (ὁ ἄρχων)
 
-8. ἐν νῷ ἔχομεν ......... ἐν τῷ οἴκῳ μένειν (ἡ νύξ)
+8. ἐν νῷ ἔχομεν {{blank}} ἐν τῷ οἴκῳ μένειν (ἡ νύξ)
 
-9. πολλοὶ πολῖται τὴν τέχνην τὴν ..... ἐπῄνεσαν. (ὁ ῥήτωρ)
+9. πολλοὶ πολῖται τὴν τέχνην τὴν {{blank}} ἐπῄνεσαν. (ὁ ῥήτωρ)
+::
 
-#### B) Completa estas oracións describindo as palabras suliñadas coa forma correcta do adxectivo que vai entre paréntese, e utilizando as diversas posibilidades posicionais. A continuación tradúceas.
+::exercise
+type: adjective-completion
+difficulty: medium
+focus:
+  - adjectives
+instruction: "Completa estas oracións describindo as palabras suliñadas coa forma correcta do adxectivo que vai entre paréntese, e utilizando as diversas posibilidades posicionais. A continuación tradúceas."
 
 1. ὁ οἶκός μου ἐν τῷ λόφῳ ἦν. (ἄκρος)
 
@@ -201,8 +304,14 @@ Táboa:
 3. ἔπειτα οἱ ᾽Αθηναῖοι τὴν νῆσον κατέλαβον. (ἔσχατος)
 
 4. διὰ τοῦ στρατοπέδου ὁ στρατηγὸς διέβαινε.(μέσος)
+::
 
-#### C) Sustitúe as palabras suliñadas pola forma correcta do pronome αὐτός e logo traduce. A continuación, converte a parella de oracións nunha soa, reemplazando o pronome αὐτός polo relativo; volve traducir.
+::exercise
+type: transform
+difficulty: medium
+focus:
+  - relatives
+instruction: "Sustitúe as palabras suliñadas pola forma correcta do pronome αὐτός e logo traduce. A continuación, converte a parella de oracións nunha soa, reemplazando o pronome αὐτός polo relativo; volve traducir."
 
 Por exemplo:
 
@@ -233,3 +342,4 @@ Chegaba o escravo a quen enviou o ancián.
 7. ἐν τῷδε τῷ κλήρῳ οἰκεῖ γεωργός τις. τὸν γεωργὸν ἐπισκοπεῖν ἐθέλω.
 
 8. ὁ γεωργὸς ἐπαινεῖ τὰ δένδρα. τὰ δένδρα ἐν τῷ κλήρῳ ὁρᾷ.
+::

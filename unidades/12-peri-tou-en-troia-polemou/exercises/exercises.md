@@ -2,28 +2,61 @@
 
 ### Exercicios de INNOVACIÓN
 
-#### a) Analiza morfolóxicamente e traduce o seguinte substantivo da TERCEIRA NEUTRA
+::exercise
+type: morphology-table
+difficulty: easy
+focus:
+  - nouns
+  - third-declension
+  - neuter
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce o seguinte substantivo da TERCEIRA NEUTRA"
 
-πῦρα
+| forma | caso | número | tradución |
+| --- | --- | --- | --- |
+| πῦρα |  |  |  |
+::
 
-#### b) Analiza as formas do INDEFINIDO
+::exercise
+type: identify-forms
+difficulty: easy
+focus:
+  - indefinite
+  - morphology
+instruction: "Analiza as formas do INDEFINIDO"
 
 πλοίου τινός
 
 φύλαξ τις
 
 πῦρά τινα
+::
 
-#### c) Analiza morfolóxicamente e traduce os seguintes AORISTOS de verbos con OCLUSIVA
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - aorist
+  - occlusives
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes AORISTOS de verbos con OCLUSIVA"
 
 Táboa:
 
-| forma | n1/persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | ἔβλεψε |  |  |  |  |  |
 | ἔβλεψαν |  |  |  |  |  |
+::
 
-#### d) Identifica a función SUSTANTIVADORA do ARTIGO MASCULINO e logo traduce
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - article
+  - substantivization
+  - syntax
+instruction: "Identifica a función SUSTANTIVADORA do ARTIGO MASCULINO e logo traduce"
 
 οἱ ἐκ τῆς ᾽Ιθάκης
 
@@ -32,26 +65,47 @@ Táboa:
 οἱ ἐκ τῆς Σπάρτης
 
 οἱ ἐκ Πύλου
+::
 
-#### e) Identifica o valor da PREPOSICIÓN παρὰ con DATIVO
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - prepositions
+  - dative
+instruction: "Identifica o valor da PREPOSICIÓN παρὰ con DATIVO"
 
 παρὰ ἡμῖν
+::
 
-#### f) Identifica valor TEMPORAL da conxunción ὡς e logo traduce
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - subordinate-clauses
+  - temporality
+instruction: "Identifica valor TEMPORAL da conxunción ὡς e logo traduce"
 
 ὡς οὖν ᾽Αγαμέμνων ἐκέλευσε, τὰ πλοῖα ἀπέπλευσε πρὸς Τροίαν
 
 ὡς δ᾽ αὐτὰ εἶδε, προσῆλθε πρὸς τοὺς ἄλλους φύλακας
 
 ὡς ὁ στρατὸς εἰς ᾽Ιλιον ἀφίκετο, οἱ στρατιῶται πῦρα ἐποίουν
+::
 
 ### Exercicios de REPASO
 
-#### a) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
-| forma | n1/persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | εἰσέβαινον |  |  |  |  |  |
 | ἦγε |  |  |  |  |  |
@@ -62,16 +116,30 @@ Táboa:
 | εἶπε |  |  |  |  |  |
 | ἐποίουν |  |  |  |  |  |
 | προσῆλθε |  |  |  |  |  |
+::
 
-#### b) Traduce e comenta as PARTICULARIDADES sintácticas das seguintes secuencias
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - syntax
+  - translation
+instruction: "Traduce e comenta as PARTICULARIDADES sintácticas das seguintes secuencias"
 
 τῶν στρατηγῶν, ὁ ᾽Αχιλλεὺς τοὺς ἐκ Φθίας ἦγε
 
 τῶν δὲ ᾽Ιλίου πολιτῶν, φύλαξ τις τὰ πῦρα εἶδε
 
 πολλὰς ἡμέρας ἔπλευσε
+::
 
-#### c) Traduce as seguintes frases PREPOSICIONAIS
+::exercise
+type: nominal-translation
+difficulty: easy
+focus:
+  - prepositions
+  - translation
+instruction: "Traduce as seguintes frases PREPOSICIONAIS"
 
 μετὰ τῶν ἐκ τῆς Μυκήνης
 
@@ -80,6 +148,7 @@ Táboa:
 παρὰ τοὺς ἄλλους φύλακας
 
 παρὰ τὴν θάλασσαν
+::
 
 ---
 
@@ -87,30 +156,58 @@ Táboa:
 
 ### Exercicios de REPASO
 
-#### a) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: easy
+focus:
+  - verbs
+  - imperative
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
-| forma | n1/persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | ἐλθέτε |  |  |  |  |  |
 | μένε |  |  |  |  |  |
+::
 
-#### b) Traduce e comenta as PARTICULARIDADES sintácticas das seguintes secuencias
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - syntax
+  - translation
+instruction: "Traduce e comenta as PARTICULARIDADES sintácticas das seguintes secuencias"
 
 δεινὸς δὲ ὁ κίνδυνος
 
 μὴ μένε
+::
 
-#### c) Identifica os valores da PREPOSICIÓN παρὰ e logo traduce
+::exercise
+type: identify-syntax
+difficulty: easy
+focus:
+  - prepositions
+instruction: "Identifica os valores da PREPOSICIÓN παρὰ e logo traduce"
 
 παρὰ τὴν θάλασσαν
 
 παρὰ ἡμῖν
 
 παρὰ Πρίαμον τὸν δεσπότην
+::
 
-#### A) Constrúe seis oracións gregas utilizando as palabras que se che ofrecen na relación que ven debaixo, e complementándoas co artigo cando sexa preciso. Logo traduce.
+::exercise
+type: sentence-building
+difficulty: medium
+focus:
+  - sentence-construction
+  - article
+  - cases
+instruction: "Constrúe seis oracións gregas utilizando as palabras que se che ofrecen na relación que ven debaixo, e complementándoas co artigo cando sexa preciso. Logo traduce."
 
 Táboa:
 
@@ -122,42 +219,62 @@ Táboa:
 | φύλακες | σάρκα | κυνός | θεραπεύουσιν |
 | ἰατρός | παῖδα | γέροντος | ἐπαίνουσιν |
 | κύων | σώματα | ποιητοῦ | ἐθεράπευεν |
+::
 
-#### B) Completa estas oracións complementando as palabras suliñadas coa forma correcta do indefinido τις. A continuación tradúceas
+::exercise
+type: fill-gaps
+difficulty: medium
+focus:
+  - indefinite
+  - morphology
+instruction: "Completa estas oracións complementando as palabras suliñadas coa forma correcta do indefinido τις. A continuación tradúceas"
 
-1. ὁ γέρων μῦθόν τῳ παιδὶ εἶπεν
+1. ὁ γέρων μῦθόν {{blank}} παιδὶ εἶπεν
 
-2. παῖδες τοὺς κύνας εἰς τοὺς ἀγροὺς εἰσάγουσιν
+2. παῖδες τοὺς κύνας εἰς τοὺς ἀγροὺς εἰσάγουσιν {{blank}}
 
-3. γυναῖκα ἐν τῷ οἴκῳ ὁρῶ
+3. γυναῖκα {{blank}} ἐν τῷ οἴκῳ ὁρῶ
 
-4. οἱ γεωργοὶ ζῷα ἐλαύνουσιν πρὸς τὸν κλῆρον
+4. οἱ γεωργοὶ ζῷα {{blank}} ἐλαύνουσιν πρὸς τὸν κλῆρον
 
-5. ἐγὼ δούλας εἰς τὴν λιμένα ἦγον
+5. ἐγὼ δούλας {{blank}} εἰς τὴν λιμένα ἦγον
 
-6. φίλου ἄροτρον φέρω πρὸς τὸν ἀγρόν
+6. φίλου {{blank}} ἄροτρον φέρω πρὸς τὸν ἀγρόν
 
-7. οἱ ναῦται ἐν οἰνοπωλείῳ ἐκαθίζοντο
+7. οἱ ναῦται {{blank}} ἐν οἰνοπωλείῳ ἐκαθίζοντο
 
-8. ὁ ἀνὴρ δῶρον ἔπεμψε τῇ γυναικί
+8. ὁ ἀνὴρ δῶρον {{blank}} ἔπεμψε τῇ γυναικί
+::
 
-#### C) Completa cada oración coa preposición apropiada e logo tradúcea.
+::exercise
+type: preposition-completion
+difficulty: medium
+focus:
+  - prepositions
+instruction: "Completa cada oración coa preposición apropiada e logo tradúcea."
 
-1. ..... ἐμὲ πέμψετε τὴν ἐπιστολήν (μετά, διά, παρά)
+1. {{blank}} ἐμὲ πέμψετε τὴν ἐπιστολήν ({μετά|διά|παρά})
 
-2. τὸ πλοῖον ..... τὸν λιμένα ἦλθεν (ἐν, διά, πρός)
+2. τὸ πλοῖον {{blank}} τὸν λιμένα ἦλθεν ({ἐν|διά|πρός})
 
-3. τῇ ὑστεραίᾳ ἦλθεν ..... τῆς Σπάρτης ὁ στρατός (εἰς, ἐν, ἀπό)
+3. τῇ ὑστεραίᾳ ἦλθεν {{blank}} τῆς Σπάρτης ὁ στρατός ({εἰς|ἐν|ἀπό})
 
-4. τὰ πλοῖα ἔπλει ..... τὴν θάλασσαν (ἐν, παρά, διά)
+4. τὰ πλοῖα ἔπλει {{blank}} τὴν θάλασσαν ({ἐν|παρά|διά})
 
-5. ..... οὐ πολὺν χρόνον ὁ βασιλεὺς κακῶς ἀπέθανε (μετά, παρά, διά)
+5. {{blank}} οὐ πολὺν χρόνον ὁ βασιλεὺς κακῶς ἀπέθανε ({μετά|παρά|διά})
 
-6. οἱ πολέμιοι ..... τῆς μεγάλης χώρας ἐπορεύοντο (εἰς, διά, ἐν)
+6. οἱ πολέμιοι {{blank}} τῆς μεγάλης χώρας ἐπορεύοντο ({εἰς|διά|ἐν})
 
-7. εὔδοξος ἀνήρ ἐστι ..... τοῖς ῾Ελλησι (εἰς, παρά, μετά)
+7. εὔδοξος ἀνήρ ἐστι {{blank}} τοῖς ῾Ελλησι ({εἰς|παρά|μετά})
+::
 
-#### D) Completa estas oracións describindo as palabras suliñadas coa forma correcta do adxectivo que vai entre paréntese. A continuación tradúceas
+::exercise
+type: adjective-completion
+difficulty: medium
+focus:
+  - adjectives
+  - agreement
+instruction: "Completa estas oracións describindo as palabras suliñadas coa forma correcta do adxectivo que vai entre paréntese. A continuación tradúceas"
 
 1. ἄνδρες τὸ θέατρον θεωροῦσιν. (πολύς)
 
@@ -170,6 +287,7 @@ Táboa:
 5. οἱ στρατιῶται νύκτας ἐπολέμιζον. (πολύς)
 
 6. ὁ στρατιώτης τραύματα ἐν τῷ ὤμῳ εἶχεν. (μέγας)
+::
 
 ---
 
@@ -177,11 +295,17 @@ Táboa:
 
 ### REPASO
 
-#### a) Analiza morfolóxicamente e traduce os seguintes verbos
+::exercise
+type: morphology-table
+difficulty: medium
+focus:
+  - verbs
+  - morphology
+instruction: "Analiza morfolóxicamente e traduce os seguintes verbos"
 
 Táboa:
 
-| forma | n1/persoa | tempo-modo | voz | verbo | tradución |
+| forma | persoa/número | tempo-modo | voz | verbo | tradución |
 | --- | --- | --- | --- | --- | --- |
 | εἶδον |  |  |  |  |  |
 | ἐγένετο |  |  |  |  |  |
@@ -189,16 +313,30 @@ Táboa:
 | ἔλαβε |  |  |  |  |  |
 | ηὔχοντο |  |  |  |  |  |
 | ἔρχονται |  |  |  |  |  |
+::
 
-#### c) Traduce as seguintes frases PREPOSICIONAIS
+::exercise
+type: nominal-translation
+difficulty: easy
+focus:
+  - prepositions
+  - translation
+instruction: "Traduce as seguintes frases PREPOSICIONAIS"
 
 παρὰ τὴν θάλασσαν
 
 περὶ τῆς σωτηρίας
 
 παρὰ ἡμῖν
+::
 
-#### d) Traduce as seguintes oracións ATRIBUTIVAS SEN VERBO
+::exercise
+type: nominal-translation
+difficulty: easy
+focus:
+  - attributive-sentences
+  - translation
+instruction: "Traduce as seguintes oracións ATRIBUTIVAS SEN VERBO"
 
 πολλαὶ αἱ βοαί
 
@@ -209,34 +347,55 @@ Táboa:
 πολλοὶ οἱ ἄνδρες
 
 βεβαία ἡ σωτηρία
+::
 
-#### e) Traduce e comenta as PARTICULARIDADES sintácticas das seguintes secuencias
+::exercise
+type: identify-syntax
+difficulty: medium
+focus:
+  - syntax
+  - translation
+instruction: "Traduce e comenta as PARTICULARIDADES sintácticas das seguintes secuencias"
 
 τῶν πολιτῶν οὖν οἱ πολλοὶ τὰς σπονδὰς ἔσπενδον
 
 ὡς δὲ οἱ Τρῶες τὰ πῦρα εἶδον, μέγας θόρυβος ἐγένετο
 
 εἰ ὑμεῖς παρὰ ἡμῖν ἐστε, βεβαία ἡ σωτηρία ἡμῶν
+::
 
-#### A) Completa cada oración coa palabra correcta e traduce
+::exercise
+type: fill-gaps
+difficulty: medium
+focus:
+  - cases
+  - morphology
+instruction: "Completa cada oración coa palabra correcta e traduce"
 
-1. οὐκ ὀλίγοι πολῖται τοὺς τῶν ..... λόγους ἤκουσαν. (ῥήτορας, ῥήτορσι, ῥητόρων)
+1. οὐκ ὀλίγοι πολῖται τοὺς τῶν {{blank}} λόγους ἤκουσαν. ({ῥήτορας|ῥήτορσι|ῥητόρων})
 
-2. ὁ δοῦλος τὸ τοῦ ........ κάναστρον ἔλαβεν (σπέρμα, σπέρματος, σπέρματι)
+2. ὁ δοῦλος τὸ τοῦ {{blank}} κάναστρον ἔλαβεν ({σπέρμα|σπέρματος|σπέρματι})
 
-3. ὅδε ὁ πολίτης τοὺς ...... κομίζει παρὰ τὸν ῥήτορα (παῖδας, παιδῶν, παισὶ)
+3. ὅδε ὁ πολίτης τοὺς {{blank}} κομίζει παρὰ τὸν ῥήτορα ({παῖδας|παιδῶν|παισὶ})
 
-4. πολλαὶ ....... τοῖς ἀνδράσι ἐβοήθουν ἐν τῷ κλήρῳ (γυναῖκες, γυναῖκας, γυναικῶν)
+4. πολλαὶ {{blank}} τοῖς ἀνδράσι ἐβοήθουν ἐν τῷ κλήρῳ ({γυναῖκες|γυναῖκας|γυναικῶν})
 
-5. ἡ παρθένος τὸ ........ τῷ πατρὶ εἶπεν (πρᾶγμα, πράγματι, πράγματος)
+5. ἡ παρθένος τὸ {{blank}} τῷ πατρὶ εἶπεν ({πρᾶγμα|πράγματι|πράγματος})
 
-6. οἱ πολῖται ἐν τῇ ἐκκλησίᾳ τοῦ ...... ἤκουον (ἄρχοντα, ἄρχοντι, ἄρχοντος)
+6. οἱ πολῖται ἐν τῇ ἐκκλησίᾳ τοῦ {{blank}} ἤκουον ({ἄρχοντα|ἄρχοντι|ἄρχοντος})
 
-7. ὁ πατὴρ τὰ τοῦ παιδὸς ......... ἐβούλετο σκοπεῖν (τραῦμα, τραύματος, τραύματα)
+7. ὁ πατὴρ τὰ τοῦ παιδὸς {{blank}} ἐβούλετο σκοπεῖν ({τραῦμα|τραύματος|τραύματα})
 
-8. οἱ παῖδες ἐν τῇ ὁδῷ τοῖς ........ διελέγοντο (γέροντες, γέροντας, γέρουσι)
+8. οἱ παῖδες ἐν τῇ ὁδῷ τοῖς {{blank}} διελέγοντο ({γέροντες|γέροντας|γέρουσι})
+::
 
-#### B) Completa cada oración coa subordinada apropiada, identifica o valor de ὡς nos enunciados resultantes, e logo traduce.
+::exercise
+type: matching
+difficulty: medium
+focus:
+  - subordinate-clauses
+  - syntax
+instruction: "Completa cada oración coa subordinada apropiada, identifica o valor de ὡς nos enunciados resultantes, e logo traduce."
 
 Táboa:
 
@@ -257,17 +416,25 @@ Táboa:
 5. ....., αἱ ψυχαὶ αἱ τῶν κακῶν πρὸς Τάρταρον ἔρχονται
 
 6. ἐπιστάμεθα .....
+::
 
-#### C) Completa cada oración usando con sentido partitivo a expresión que se che ofrece entre parénteses. Logo traduce.
+::exercise
+type: fill-gaps
+difficulty: medium
+focus:
+  - genitive
+  - partitive
+instruction: "Completa cada oración usando con sentido partitivo a expresión que se che ofrece entre parénteses. Logo traduce."
 
-1. ....... ἐμάχοντο ἐν τάδε τῷ πολέμῳ οἵ τε Λέσβιοι καὶ οἱ Λοκροί (οἱ σύμμαχοι)
+1. {{blank}} ἐμάχοντο ἐν τάδε τῷ πολέμῳ οἵ τε Λέσβιοι καὶ οἱ Λοκροί (οἱ σύμμαχοι)
 
-2. ὁ στρατηγὸς ........ τὰ μὲν ἔπεμψε περὶ τὴν νῆσον, τὰ δὲ ἐκέλευσε φυλάσσειν τὴν χώραν (τὰ πλοῖα)
+2. ὁ στρατηγὸς {{blank}} τὰ μὲν ἔπεμψε περὶ τὴν νῆσον, τὰ δὲ ἐκέλευσε φυλάσσειν τὴν χώραν (τὰ πλοῖα)
 
-3. ἐν ἐκείνῃ τῇ μάχῃ ........ ἀπέθανον οἱ Λακεδαιμόνιοι, οἱ δὲ ἄλλοι ἔφυγον (οἱ ῾Ελληνες)
+3. ἐν ἐκείνῃ τῇ μάχῃ {{blank}} ἀπέθανον οἱ Λακεδαιμόνιοι, οἱ δὲ ἄλλοι ἔφυγον (οἱ ῾Ελληνες)
 
-4. ........ τῷ στρατηγῷ προσέρχεται Λέσβιός τις (οἱ στρατιῶται)
+4. {{blank}} τῷ στρατηγῷ προσέρχεται Λέσβιός τις (οἱ στρατιῶται)
 
-5. ........ οἱ γέροντες οἴκαδε ἐπανέρχονται, οἱ δὲ ἄλλοι μένουσιν ἐν τῇ ἑορτῇ (οἱ πολῖται)
+5. {{blank}} οἱ γέροντες οἴκαδε ἐπανέρχονται, οἱ δὲ ἄλλοι μένουσιν ἐν τῇ ἑορτῇ (οἱ πολῖται)
 
-6. ........, οἱ μὲν ἐκ τῆς μάχης ἐπειρῶντο φυγεῖν, οἱ δὲ ἐμάχοντο καὶ ἔπιπτον (οἱ πολέμιοι)
+6. {{blank}}, οἱ μὲν ἐκ τῆς μάχης ἐπειρῶντο φυγεῖν, οἱ δὲ ἐμάχοντο καὶ ἔπιπτον (οἱ πολέμιοι)
+::
