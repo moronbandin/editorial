@@ -1,0 +1,817 @@
+# Vocabulario final
+
+Recóllese aquí o vocabulario reunido de todas as unidades. As entradas aparecen nunha única lista, sen distinción por categoría gramatical, ordenadas alfabeticamente e sen duplicados.
+
+- Ἀδρηστος, -ου, ὁ: Adrasto
+- Ἀλυάττης, -ου, ὁ: Aliates
+- Ἀσίας, -ας, ἡ: Asia
+- ἀγαθός, -ή, -όν: bo
+- Ἀγαμέμνων, -ονος, ὁ: Agamémnon
+- ἀγγελία, -ας, ἡ: mensaxe, nova
+- ἀγγέλλω, ἀγγελῶ, ἀπήγγειλα: anunciar
+- ἄγγελος, -ου, ὁ: mensaxeiro
+- ἀγέλη, -ης, ἡ: rabaño
+- ἀγορά, -ᾶς, ἡ: ágora, praza
+- ἀγρός, -οῦ, ὁ: campo
+- ἀγχόνη, -ης, ἡ: forca, lazo
+- ἄγω, ἄξω, ἤγαγον: levar, conducir
+- ἄδικος, -ον: inxusto
+- ἀδύνατος, -ον: imposible, incapaz
+- ᾄδω, ᾄσομαι, ᾖσα: cantar
+- ἀεί: sempre
+- ἀείδω: cantar
+- Ἀθῆναι, -ῶν, αἱ: Atenas
+- Ἀθηναῖος, -α, -ον: ateniense
+- ἄθλος, -ου, ὁ: traballo, proba
+- ἀθυμέω: desanimarse
+- ἀθυμίη, -ης, ἡ: desalento
+- ἀθύμιος, -ον: desanimado
+- Αἰαία, -ας, ἡ: Eea
+- Αἴακος, -ου, ὁ: Éaco
+- Αἴας, -αντος, ὁ: Ájax
+- Αἰγαῖος πόντος, -ου, ὁ: mar Exeo
+- Αἰγεύς, -έως, ὁ: Exeo
+- αἰγιαλός, -οῦ, ὁ: praia, costa
+- Αἴγυπτος, -ου, ἡ: Exipto
+- Ἅιδης, -ου, ὁ: Hades
+- Αἰήτης, -ου, ὁ: Eetes
+- αἴνιγμα, -ατος, τό: enigma
+- αἴξ, αἰγός, ἡ: cabra
+- Αἰολία, -ας, ἡ: Eolia
+- Αἴολος, -ου, ὁ: Eolo
+- αἴρω, ἀρῶ, ἦρα: erguer, levantar
+- Αἴσων, -ονος, ὁ: Esón
+- αἰχμή, -ῆς, ἡ: punta de lanza
+- ἀκμάζων, -ουσα, -ον: florecente, no seu apoxeo
+- ἀκοντίζω: lanzar o xavelín
+- ἀκούω: ouvir, escuitar
+- ἀκρόπολις, -εως, ἡ: acrópole
+- ἄκων, -ουσα, -ον: involuntario
+- Ἀλέξανδρος, -ου, ὁ: Alexandre
+- ἀλήθεια, -ας, ἡ: verdade
+- ἀληθής, -ές: verdadeiro
+- ἀληθῶς: verdadeiramente
+- ἄλλος, -η, -ο: outro
+- Ἅλυς, -υος, ὁ: Halis
+- Ἄλφειος, -ου, ὁ: Alfeo
+- Ἀμαζόνες, -ων, αἱ: Amazonas
+- ἅμαξα, -ης, ἡ: carro
+- ἁμαρτάνω, ἁμαρτήσομαι, ἥμαρτον: errar, fallar
+- ἀμβροσία, -ας, ἡ: ambrosía
+- ἀμέλγω, ἀμέλξω, ἤμελξα: mungir
+- ἄμυνω, ἀμυνῶ, ἤμυνα: defender, socorrer
+- ἀμφίστομος, -ον: de dúas bocas, con dúas aberturas
+- ἀμφότεροι, -αι, -α: ambos
+- ἀναβαίνω, ἀναβήσομαι, ἀνέβην: subir
+- ἀνάγκη, -ης, ἡ: necesidade, coacción
+- ἀναγνωρίζω: recoñecer
+- ἀνάξιος, -α, -ον: indigno
+- ἀναρτάω, ἀναρτήσω, ἀνήρτησα: colgar
+- ἀναστρέφω, ἀναστρέψω, ἀνέστρεψα: volver atrás
+- ἀνατέλλω, ἀνατελῶ, ἀνέτειλα: saír, erguerse
+- ἀναφέρω, ἀνοίσω, ἀνήνεγκον: elevar, levar arriba
+- ἀναφύομαι, ἀναφύσομαι, ἀνεφυνόμην: brotar de novo
+- ἀνδρεῖος, -α, -ον: valente
+- ἀνδρεών, -ῶνος, ὁ: sala dos homes, arsenal
+- ἄνεμος, -ου, ὁ: vento
+- ἀνέρχομαι, ἀνελεύσομαι, ἀνῆλθον: subir
+- ἄνευ: sen
+- ἀνήρ, ἀνδρός, ὁ: home
+- ἀνθρώπειος, -α, -ον: humano
+- ἄνθρωπος, -ου, ὁ: home, ser humano
+- ἀνθρωποφάγος, -ον: antropófago
+- ἀνοίγω, ἀνοίξω, ἀνέῳξα: abrir
+- ἄντρον, -ου, τό: cova, gruta
+- ἀξιόω: considerar digno
+- ἀπαγγέλλω, ἀπαγγελῶ, ἀπήγγειλα: comunicar, anunciar
+- ἀπάγω, ἀπάξω, ἀπήγαγον: levar para lonxe
+- ἄπαις, ἄπαιδος: sen fillos
+- ἀπέρχομαι, ἀπελεύσομαι, ἀπῆλθον: marchar, partir
+- ἀπεχθάνομαι, ἀπεχθήσομαι: ser odiado
+- ἀπέχομαι, ἀφέξομαι: afastarse de, absterse de
+- ἀπέχω, ἀφέξω, ἀπέσχον: afastarse de, absterse
+- ἀπιστέω: desconfiar
+- ἀπιστία, -ας, ἡ: infidelidade, deslealdade
+- ἄπιστος, -ον: infiel, desleal
+- ἀποδημέω: viaxar, ausentarse
+- ἀποδιδράσκω, ἀποδράσομαι, ἀπέδραν: escapar
+- ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον: morrer
+- ἀποκρίνομαι, ἀποκρινοῦμαι, ἀπεκρινάμην: responder
+- ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα: matar
+- Ἀπόλλων, -ωνος, ὁ: Apolo
+- ἄπονος, -ον: sen fatiga, fácil
+- ἀποπέμπω, ἀποπέμψω, ἀπέπεμψα: enviar de volta, despedir
+- ἀποπλέω, ἀποπλεύσομαι, ἀπέπλευσα: partir por mar
+- ἀποφέρω, ἀποίσω, ἀπήνεγκον: levar para lonxe
+- ἀποφεύγω, ἀποφεύξομαι, ἀπέφυγον: escapar
+- ἀποχωρέω: retirarse, apartarse
+- ἆρα: acaso
+- Ἀργοναῦται, -ῶν, οἱ: Argonautas
+- Ἄργος, -ου, ὁ: Argos
+- ἄργυρος, -ου, ὁ: prata
+- ἀρετή, -ῆς, ἡ: virtude
+- Ἄρης, -εως, ὁ: Ares
+- Ἀριάδνη, -ης, ἡ: Ariadna
+- ἀριστερός, -ά, -όν: esquerdo
+- ἄριστος, -η, -ον: excelente, o mellor
+- Ἀρκαδία, -ας, ἡ: Arcadia
+- ἀροτρεύω: arar
+- ἄροτρον, -ου, τό: arado
+- ἁρπάζω: raptar, arrebatar
+- Ἀρτεμβάρης, -ου, ὁ: Artembares
+- ἀρχή, -ῆς, ἡ: poder, mando
+- ἀρχιτέκτων, -ονος, ὁ: arquitecto
+- ἀσκός, -οῦ, ὁ: odre, saco de coiro
+- ἀσόφως: imprudentemente
+- ἄστυ, -εως, τό: cidade
+- Ἀστυάγης, -ου, ὁ: Astíages
+- ἀστυγείτων, -ονος, ὁ: veciño de cidade
+- Ἄτλας, -αντος, ὁ: Atlas
+- ἄτρωτος, -ον: invulnerábel
+- Ἄτυς, -υος, ὁ: Atis
+- Αὐγείας, -ου, ὁ: Augías
+- αὖθις: de novo
+- Αὐλίς, -ίδος, ἡ: Áulide
+- ἄυπνος, -ον: insomne, que non dorme
+- αὔριον: mañá
+- αὐτίκα: imediatamente
+- ἄφθογγος, -ον: sen fala, mudo
+- ἀφικνέομαι, ἀφίξομαι, ἀφικόμην: chegar
+- ἀφόβως: sen medo
+- Ἀχαιοί, -ῶν, οἱ: aqueos
+- Ἀχέρων, -οντος, ὁ: Aqueronte
+- Ἀχιλλεύς, -έως, ὁ: Aquiles
+- Ἄψυρτος, -ου, ὁ: Ápsirto
+- βαδίζω: camiñar
+- βαίνω, βήσομαι, ἔβην: ir, marchar
+- βάκτρον, -ου, τό: bastón
+- βάλανος, -ου, ἡ: landra
+- βάλλω, βαλῶ, ἔβαλον: lanzar
+- βάρβαρος, -ου, ὁ: bárbaro, estrangeiro
+- βασίλεια, -ων, τά: palacio
+- βασιλεύω: reinar
+- βέβαιος, -α, -ον: firme, seguro
+- βιαίως: violentamente
+- βίος, -ου, ὁ: vida
+- βιόω: vivir
+- Βίτων, -ωνος, ὁ: Bitón
+- βλάπτω, βλάψω, ἔβλαψα: ferir, danar
+- βλέπω, βλέψω, ἔβλεψα: mirar
+- βοάω, βοήσομαι, ἐβόησα: berrar
+- βοή, -ῆς, ἡ: grito, clamor
+- βοηθέω: axudar
+- βουκόλιον, -ου, τό: cortello de bois
+- βουκόλος, -ου, ὁ: boieiro
+- βουλεύω / βουλεύομαι: deliberar, decidir
+- βούλομαι, βουλήσομαι: querer
+- βοῦς, βοός, ἡ: vaca, boi
+- βραδέως: amodo
+- βρέφος, -ους, τό: bebé
+- βωμός, -οῦ, ὁ: altar
+- Γάδειρα, -ων, τά: Gadeira, Cádiz
+- γαμετή, -ῆς, ἡ: esposa lexítima
+- γάμος, -ου, ὁ: matrimonio
+- γάρ: pois, xa que
+- γεννάω: xerar, dar a luz
+- γέρων, -οντος, ὁ: vello
+- γέφυρα, -ας, ἡ: ponte
+- γεωργός, -οῦ, ὁ: labrego, agricultor
+- γῆ, γῆς, ἡ: terra
+- Γηρυόνης, -ου, ὁ: Xerión
+- γίγας, -αντος, ὁ: xigante
+- γιγνώσκω, γνώσομαι, ἔγνων: coñecer, compreender
+- Γόρδιος, -ου, ὁ: Gordio
+- γυμνός, -ή, -όν: nu
+- γυνή, γυναικός, ἡ: muller
+- Δαίδαλος, -ου, ὁ: Dédalo
+- δαίμων, -ονος, ὁ: divindade, espírito
+- δαμάζω: domar
+- δεινός, -ή, -όν: terrible
+- δειπνέω: comer, xantar
+- δεῖπνον, -ου, τό: banquete, comida
+- Δελφοί, -ῶν, οἱ: Delfos
+- δένδρον, -ου, τό: árbore
+- δεξιός, -ά, -όν: dereito
+- δέομαι, δεήσομαι, ἐδεήθην: pedir, suplicar
+- δέρας, -ατος, τό: velo, pel
+- δεσμός, -οῦ, ὁ: cadea, vínculo
+- δεσπότης, -ου, ὁ: amo, dono
+- δεῦρο: aquí, acá
+- δεύτερον: en segundo lugar
+- δεύω: mollar
+- δέχομαι, δέξομαι, ἐδεξάμην: recibir
+- δή: xa, precisamente
+- δηλόω: mostrar, facer ver
+- Δημήτηρ, -τρος, ἡ: Deméter
+- δημιουργός, -οῦ, ὁ: artesán
+- δήμος, -ου, ὁ: pobo
+- δῆμος, -ου, ὁ: povo
+- δημοσίᾳ: publicamente
+- δήπου: certamente, sen dúbida
+- διὰ τοῦτο: por iso
+- διαβαίνω, διαβήσομαι, διέβην: atravesar
+- διάγω: pasar o tempo, vivir
+- διαδέχομαι, διαδέξομαι, διεδεξάμην: tomar no lugar de outro
+- διαλέγομαι, διαλέξομαι, διελεξάμην: falar con, conversar
+- διασκοπέω: examinar
+- διαφέρω, διοίσω, διήνεγκον: destacar, sobresaír
+- διαφθείρω, διαφθερῶ, διέφθειρα: corromper, destruir
+- διάφθειρω, διαφθερῶ, διέφθειρα: destruír
+- δικαστήριον, -ου, τό: tribunal
+- δικαστής, -οῦ, ὁ: xuíz
+- δίκεφαλος, -ον: de dúas cabezas
+- δίνη, -ης, ἡ: remuíño
+- Διομήδης, -ους, ὁ: Diomedes
+- Διόνυσος, -ου, ὁ: Dioniso
+- διότι: porque
+- δίπους, δίπουν: de dous pés
+- διώκω, διώξω, ἐδίωξα: perseguir
+- δόκιμος, -ον: estimado, respectable
+- δόλος, -ου, ὁ: ardil, engano
+- δόξα, -ης, ἡ: fama, gloria
+- δορυφόρος, -ου, ὁ: guarda, lanceiro
+- δουλεύω: servir como escravo
+- δούλη, -ης, ἡ: escrava
+- δοῦλος, -ου, ὁ: escravo
+- δράκων, -οντος, ὁ: dragón
+- δυνατός, -ή, -όν: capaz, posible
+- δῶρον, -ου, τό: agasallo
+- ἐάω, ἐάσω, εἴασα: deixar, permitir
+- ἐγγύς: preto
+- ἐγείρω, ἐγερῶ, ἤγειρα: espertar
+- ἐγκέφαλος, -ου, ὁ: cerebro
+- εἰκών, -όνος, ἡ: imaxe, estatua
+- εἵπομαι, ἕψομαι, ἑσπόμην: seguir
+- εἰς ἀεί: para sempre
+- εἰσάγω, εἰσάξω, εἰσήγαγον: introducir, levar dentro
+- εἰσβαίνω, εἰσβήσομαι, εἰσέβην: entrar
+- εἰσέρχομαι, εἰσελεύσομαι, εἰσῆλθον: entrar
+- εἴσοδος, -ου, ἡ: entrada
+- ἐκαλύπτω, ἐκαλύψω, ἐκάλυψα: tapar, cubrir
+- ἐκβαίνω, ἐκβήσομαι, ἐξέβην: desembarcar, saír
+- ἐκβάλλω, ἐκβαλῶ, ἐξέβαλον: botar fóra
+- ἐκδέχομαι, ἐκδέξομαι, ἐξεδεξάμην: aceptar
+- ἐκδιώκω, ἐκδιώξω, ἐξεδίωξα: expulsar, botar fóra
+- ἐκεῖσε: alí
+- ἐκκομίζω: sacar, retirar
+- ἐκλάζω: berrar, ouvear
+- ἐκπέμπω, ἐκπέμψω, ἐξέπεμψα: enviar fóra
+- ἐκφέρω, ἐξοίσω, ἐξήνεγκον: sacar, levar fóra
+- ἐλαύνω, ἐλῶ, ἤλασα: empurrar, conducir
+- ἐλεέω: compadecerse
+- Ἑλένη, -ης, ἡ: Helena
+- ἐλευθερία, -ας, ἡ: liberdade
+- ἐλεύθερος, -α, -ον: libre
+- ἕλκω, ἕλξω, εἵλκυσα: arrastrar
+- Ἑλλάς, -άδος, ἡ: Grecia
+- Ἕλλην, -ηνος, ὁ: grego
+- Ἑλλήσποντος, -ου, ὁ: Helesponto
+- ἐμποδίζω: impedir, estorbar
+- ἐν ᾧ: mentres
+- ἐνδέχομαι, ἐνδέξομαι, ἐνεδεξάμην: aceptar
+- ἔνδον: dentro
+- ἔνδοξος, -ον: ilustre, famoso
+- ἐνθάδε: aquí
+- ἔνθεν: dun lado, de alí
+- ἐνιαυτός, -οῦ, ὁ: ano
+- ἔνιοι: algúns
+- ἐνταῦθα: alí, entón
+- ἐξαίφνης: de súpeto
+- ἐξάπτω, ἐξάψω, ἐξῆψα: atar desde, prender
+- ἐξέρχομαι, ἐξελεύσομαι, ἐξῆλθον: saír
+- ἐξηγέομαι, ἐξηγήσομαι, ἐξηγησάμην: explicar, relatar
+- ἑορτή, -ῆς, ἡ: festa
+- ἐπανέρχομαι, ἐπανελεύσομαι, ἐπανῆλθον: regresar
+- ἔπειτα: despois
+- ἐπέρχομαι, ἐπελεύσομαι, ἐπῆλθον: avançar contra, acercarse
+- ἐπιβουλεύω: tramar, maquinar
+- ἐπιθυμία, -ας, ἡ: desexo
+- ἐπικυρέω: conceder, ratificar
+- ἐπιλανθάνομαι, ἐπιλήσομαι, ἐπελαθόμην: esquecer
+- ἐπιμελέομαι: coidar, ocuparse
+- ἐπιμελητής, -οῦ, ὁ: encargado, capataz
+- ἐπιστρέφω, ἐπιστρέψω, ἐπέστρεψα: volver, replicar
+- ἐπιτάσσω, ἐπιτάξω, ἐπέταξα: impor, ordenar
+- ἐπιτήδειος, -α, -ον: apto, adecuado
+- ἐράω, ἐράσω, ἠράσθην: amar, apaixonarse
+- ἔργον, -ου, τό: traballo, tarefa
+- Ἑρμῆς, -οῦ, ὁ: Hermes
+- Ἐρύθεια, -ας, ἡ: Eritia
+- ἔρχομαι, ἐλεύσομαι, ἦλθον: ir, vir
+- ἐσθής, -ῆτος, ἡ: vestido
+- ἐσθίω, ἔδομαι, ἔφαγον: comer
+- ἐστρατεύομαι, στρατεύσομαι, ἐστρατευσάμην: facer campaña, marchar en expedición
+- ἔσχατον: ao fondo, no extremo
+- ἑταῖρος, -ου, ὁ: compañeiro
+- ἑτοῖμος, -η, -ον: preparado, disposto
+- εὖ: ben
+- εὐδοξία, -ας, ἡ: boa fama
+- εὐθύς: inmediatamente
+- εὐμενής, -ές: benévolo, favorábel
+- εὐνή, -ῆς, ἡ: leito
+- Εὐρύλοχος, -ου, ὁ: Euríloco
+- Εὐρυσθεύς, -έως, ὁ: Euristeo
+- Εὐρυτίων, -ωνος, ὁ: Euritión
+- Εὐρώπη, -ης, ἡ: Europa
+- εὐχή, -ῆς, ἡ: prece, oração
+- εὔχομαι, εὔξομαι, ηὐξάμην: rezar, rogar
+- ἐφέλκω, ἐφελκύσω, ἐφείλκυσα: tirar de, traer cara a si
+- ἔχω, ἕξω, ἔσχον: ter
+- ζεῦγος, -ους, τό: xugo, tiro de bois
+- Ζέφυρος, -ου, ὁ: Zéfiro
+- ζητέω: buscar
+- ζυγόν, -οῦ, τό: xugo
+- ζώνη, -ης, ἡ: cinto
+- ζῷον, -ου, τό: animal
+- ἢ: ou
+- ἡβάσκω: chegar á mocidade
+- ἡβάω / ἡβῶ: chegar á mocidade
+- ἤδη: xa
+- ἥκιστα: o menos posible
+- ἥλιος, -ου, ὁ: sol
+- Ἥλις, -ιδος, ἡ: Élide
+- ἡμέρα, -ας, ἡ: día
+- Ἥρα, -ας, ἡ: Hera
+- Ἡράκλειαι στῆλαι, -ῶν, αἱ: columnas de Heracles
+- Ἡρακλῆς, -έους, ὁ: Heracles
+- ἡσυχάζω: descansar, parar
+- ἥσυχος, -ον: tranquilo, silencioso
+- θάλαμος, -ου, ὁ: cámara, dormitorio
+- θάλασσα, -ης, ἡ: mar
+- θάνατος, -ου, ὁ: morte
+- Θάνατος, -ου, ὁ: Morte
+- θάπτω, θάψω, ἔθαψα: enterrar
+- θαυμάζω: admirar
+- θεά, -ᾶς, ἡ: deusa
+- θεάομαι, θεάσομαι, ἐθεασάμην: contemplar
+- θέατρον, -ου, τό: teatro
+- θέλγω, θέλξω, ἔθελξα: encantar
+- θέλω / ἐθέλω: querer
+- θεός, -οῦ, ὁ: deus
+- θεραπεύω: coidar, cultivar
+- θερμαίνω, θερμανῶ, ἐθέρμανα: aquecer
+- θερμός, -ή, -όν: quente
+- Θερμώδων, -οντος, ὁ: Termodonte
+- θεωρέω: contemplar
+- Θῆβαι, -ῶν, αἱ: Tebas
+- θήρα, -ας, ἡ: caza
+- θηρίον, -ου, τό: fera, animal salvaxe
+- Θησαυρός, -οῦ, ὁ: tesouro
+- Θησεύς, -έως, ὁ: Teseo
+- θνητός, -ή, -όν: mortal
+- θόρυβος, -ου, ὁ: alvoroço, tumulto
+- Θρᾷκες, -ῶν, οἱ: tracios
+- θρόνος, -ου, ὁ: trono, asiento
+- θυγάτηρ, -τρός, ἡ: filla
+- θύμος, -οῦ, ὁ: ánimo, corazón
+- θύρα, -ας, ἡ: porta
+- θυσία, -ας, ἡ: sacrifício
+- θύω: sacrificar
+- Ἰάσων, -ονος, ὁ: Xasón
+- ἰατρός, -οῦ, ὁ: médico
+- Ἰβηρία, -ας, ἡ: Iberia
+- ἱερεύς, -έως, ὁ: sacerdote
+- ἱερόν, -οῦ, τό: santuario, templo
+- Ἰθάκη, -ης, ἡ: Ítaca
+- ἱκανός, -ή, -όν: suficiente
+- Ἰκάρος, -ου, ὁ: Ícaro
+- ἱκετεύω: suplicar
+- Ἴλιον, -ου, τό: Ílion, Troia
+- Ἰοκάστη, -ης, ἡ: Iocasta
+- Ἱππολύτη, -ης, ἡ: Hipólita
+- ἵππος, -ου, ὁ: cabalo
+- Ἰσμήνη, -ης, ἡ: Ismene
+- ἱστίον, -ου, τό: vela
+- Ἰωλκός, -οῦ, ἡ: Iolco
+- καθαίρω, καθαρῶ, ἐκάθηρα: purificar
+- καθαρός, -ά, -όν: puro
+- καθάρσις, -εως, ἡ: purificación
+- καθεύδω: durmir
+- καθέψω, καθεψήσω, ἐκαθέψησα: cozer
+- καθίζω: sentar
+- καίπερ: aínda que
+- καιρός, -οῦ, ὁ: momento oportuno
+- κακοδαίμων, -ον: desgrazado, infeliz
+- κακός, -ή, -όν: malo, grave
+- κακουργία, -ας, ἡ: crime, maldade
+- καλέω, καλέσω, ἐκάλεσα: chamar
+- καλός, -ή, -όν: belo, nobre
+- κάμνω, καμοῦμαι, ἔκαμον: cansarse
+- κάρκινος, -ου, ὁ: cangrexo
+- καρπός, -οῦ, ὁ: froito
+- Κασσάνδρα, -ας, ἡ: Casandra
+- κατὰ ἔτος: cada ano
+- καταδέω, καταδήσω, κατέδησα: atar ben, prender
+- καταδύνω: poñerse
+- καταδύω: poñerse, afundirse
+- κατακοιμίζω: adormecer
+- κατασκευάζω: construír, preparar
+- καταστρέφω, καταστρέψω, κατέστρεψα: someter
+- κατασφάζω: degolar
+- κατεβαίνω, καταβήσομαι, κατέβην: baixar
+- κατέρχομαι, κατελεύσομαι, κατῆλθον: baixar
+- κατέχω, καθέξω, κατέσχον: apoderarse de
+- κελαινός, -ή, -όν: negro, escuro
+- κελεύω: ordenar
+- κενός, -ή, -όν: baleiro
+- κέρας, -ατος, τό: corno
+- Κέρβερος, -ου, ὁ: Cérbero
+- κεφαλή, -ῆς, ἡ: cabeza
+- κῆρυξ, -υκος, ὁ: arauto
+- Κιθαιρών, -ῶνος, ὁ: Citerón
+- κίνδυνος, -ου, ὁ: perigo
+- Κίρκη, -ης, ἡ: Circe
+- Κλεόβις, -ιδος, ὁ: Cleobis
+- κλέπτης, -ου, ὁ: ladrón
+- κλῆρος, -ου, ὁ: leira, parcela
+- κλίνη, -ης, ἡ: leito, cama
+- κοιμητήριον, -ου, τό: dormitorio
+- κολάζω: castigar
+- Κόλχοι, -ων, οἱ: Cólquidos
+- κομίζω: levar, transportar
+- κόπτω, κόψω, ἔκοψα: golpear, bater
+- Κόρινθος, -ου, ἡ: Corinto
+- κόσμος, -ου, ὁ: mundo
+- κουφότατος, -η, -ον: moi leve, máis soportábel
+- κρατέω: dominar, vencer
+- Κρέων, -οντος, ὁ: Creonte
+- Κρήτη, -ης, ἡ: Creta
+- κρίνω, κρινῶ, ἔκρινα: julgar
+- κρίσις, -εως, ἡ: xuízo
+- Κροῖσος, -ου, ὁ: Creso
+- Κρόνος, -ου, ὁ: Crono
+- κρόταλον, -ου, τό: crótalo, castanholas
+- κρότος, -ου, ὁ: ruído seco
+- κρούω: golpear, facer soar
+- κρύπτω, κρύψω, ἔκρυψα: ocultar, esconder
+- κυβερνήτης, -ου, ὁ: piloto, timoneiro
+- κύκλῳ: en círculo, arredor
+- Κύκλωψ, -ωπος, ὁ: Cíclope
+- Κῦρος, -ου, ὁ: Ciro
+- κύων, κυνός, ὁ: can
+- κωλύω: impedir
+- κώμη, -ης, ἡ: aldea
+- κωφός, -ή, -όν: xordo
+- λαβύρινθος, -ου, ὁ: labirinto
+- Λάϊος, -ου, ὁ: Laio
+- Λακεδαιμόνιοι, -ων, οἱ: lacedemonios
+- λαμβάνομαι, λήψομαι, ἐλαβόμην: ser collido por
+- λαμβάνω, λήψομαι, ἔλαβον: tomar
+- λαμπρός, -ά, -όν: brillante, glorioso
+- λάμπω: brillar
+- λέγω, ἐρῶ, εἶπον: dicir
+- λείπω, λείψω, ἔλιπον: abandonar
+- Λέρνη, -ης, ἡ: Lerna
+- λευκός, -ή, -όν: branco
+- λέων, -οντος, ὁ: león
+- Λιβύη, -ης, ἡ: Libia
+- λίθος, -ου, ὁ: pedra
+- λιμήν, -ένος, ὁ: porto
+- λίμνη, -ης, ἡ: lago
+- λιμός, -οῦ, ὁ: fame
+- λῖνον, -ου, τό: fío de liño
+- λόγος, -ου, ὁ: palabra, discurso
+- λούω, λούσω, ἔλουσα: lavar
+- λόφος, -ου, ὁ: outeiro
+- Λυδία, -ας, ἡ: Lidia
+- Λυδός, -οῦ, ὁ: lidio
+- λύκος, -ου, ὁ: lobo
+- λύνω, λύσω, ἔλυσα: resolver
+- λύπη, -ης, ἡ: tristeza
+- λύω, λύσω, ἔλυσα: soltar, desatar
+- λύω, λύσω, ἔλυσα: soltar
+- λῶτος, -ου, ὁ: loto
+- Λωτοφάγοι, -ων, οἱ: Lotófagos
+- μαθητής, -οῦ, ὁ: discípulo
+- μαίνομαι, μανοῦμαι, ἐμάνην: enlouquecer
+- μακαρίζω: chamar feliz
+- μακάριος, -α, -ον: feliz
+- μακρός, -ά, -όν: longo, grande
+- μάλιστα: moitísimo, sobre todo
+- μανθάνω, μαθήσομαι, ἔμαθον: aprender, saber
+- μανικός, -ή, -όν: tolo, delirante
+- μαστιγόω: azoutar
+- μάστιξ, -ιγος, ἡ: látego
+- μάχαιρα, -ας, ἡ: coitelo, espada curta
+- μάχη, -ης, ἡ: batalla
+- μάχομαι, μαχοῦμαι, ἐμαχεσάμην: combater, loitar
+- μεγάλως: grandemente
+- Μεγάρα, -ας, ἡ: Mégara
+- μέγας, μεγάλη, μέγα: grande
+- μεθύω: embriagarse
+- μέλας, μέλαινα, μέλαν: negro
+- μέλι, -ιτος, τό: mel
+- μελίζω: desmembrar
+- μέλλω: estar a punto de
+- Μενέλαος, -ου, ὁ: Menelau
+- Μενοικεύς, -έως, ὁ: Meneceu
+- μέντοι: con todo, non obstante
+- μένω, μενῶ, ἔμεινα: permanecer
+- μεταγιγνώσκω, μεταγνώσομαι, μετέγνων: cambiar de parecer
+- μεταπέμπω, μεταπέμψομαι, μετεπεμψάμην: mandar chamar
+- μέτωπον, -ου, τό: fronte
+- μή: non
+- Μήδεια, -ας, ἡ: Medea
+- Μῆδοι, -ων, οἱ: medos
+- μῆλον, -ου, τό: mazá
+- μήν, μηνός, ὁ: mes
+- μίγνυμι, μίξω, ἔμιξα: mesturar
+- μικρός, -ά, -όν: pequeno
+- Μίνως, -ω, ὁ: Minos
+- Μινώταυρος, -ου, ὁ: Minotauro
+- μισέω: odiar
+- μισθός, -οῦ, ὁ: salario, recompensa
+- μνημονεύω: lembrar
+- μνηστεύω: pretender en matrimonio
+- μνηστήρ, -ῆρος, ὁ: pretendente
+- μόλις: apenas, con dificultade
+- μόριον, -ου, τό: parte, pedaço
+- Μυκήναι, -ῶν, αἱ: Micenas
+- Μυκήνη, -ης, ἡ: Micenas
+- Μύσιος Ὄλυμπος, -ου, ὁ: Olimpo Misio
+- Μυσοί, -ῶν, οἱ: misios
+- Νάξος, -ου, ἡ: Naxos
+- ναύτης, -ου, ὁ: mariñeiro
+- νεανίας, -ου, ὁ: mozo
+- νεκρός, -οῦ, ὁ: cadáver
+- νέκταρ, -αρος, τό: néctar
+- Νεμέα, -ας, ἡ: Nemea
+- νέος, -α, -ον: novo
+- Νέστωρ, -ορος, ὁ: Néstor
+- νή: certamente, por
+- νῆσος, -ου, ἡ: illa
+- νικάω, νικήσω, ἐνίκησα: vencer
+- νίκη, -ης, ἡ: vitoria
+- νομίζω: considerar
+- νόμος, -ου, ὁ: lei
+- νοστέω: regresar
+- νόστος, -ου, ὁ: regreso
+- νοῦς, νοῦ, ὁ: mente
+- νῦν: agora
+- νύξ, νυκτός, ἡ: noite
+- ξενίζω: hospedar
+- ξένος, -ου, ὁ: estranxeiro, hóspede
+- ξύλινος, -η, -ον: de madeira
+- ὁδός, -οῦ, ἡ: camiño
+- ὀδύρομαι, ὀδυροῦμαι, ὠδυράμην: lamentarse
+- Ὀδυσσεύς, -έως, ὁ: Odiseo
+- οἴδημα, -ατος, τό: inchazo
+- Οἰδίπους, -ου, ὁ: Edipo
+- οἴκαδε: a casa
+- οἰκεῖος, -α, -ον: propio, familiar
+- οἰκέω: habitar
+- οἴκος, -ου, ὁ: casa
+- οἶκος, -ου, ὁ: casa
+- οἶνος, -ου, ὁ: viño
+- οἶστρος, -ου, ὁ: tábano, furor
+- ὀλίγος, -η, -ον: pouco, escaso
+- Ὀλύμπιοι, -ων, οἱ: os Olímpicos
+- ὅμιλος, -ου, ὁ: multitude, grupo
+- ὄνειρος, -ου, ὁ: soño
+- ὄνθος, -ου, ἡ: esterco
+- ὄνομα, -ατος, τό: nome
+- ὀνομάζω: chamar, nomear
+- ὁράω, ὄψομαι, εἶδον: ver
+- ὀργίζομαι, ὀργιοῦμαι, ὠργίσθην: irritarse
+- ὀρέγω, ὀρέξω, ὤρεξα: estender
+- ὁρκίζομαι / ὅρκον ποιέομαι: xurar
+- ὁρμάω, ὁρμήσω, ὥρμησα: lanzarse, precipitarse
+- ὄρνις, -ιθος, ὁ/ἡ: ave
+- ὅρος, -ου, ὁ: límite, monte
+- οὐδαμοῦ: en ningures
+- οὐδέ: nin sequera
+- οὐκέτι: xa non
+- οὖν: pois, daquela
+- οὐρά, -ᾶς, ἡ: cola
+- οὕτω: así
+- οὕτως: así
+- ὀφθαλμός, -οῦ, ὁ: ollo
+- παιδίον, -ου, τό: neniño
+- παίζω: xogar
+- παῖς, παιδός, ὁ: neno, fillo
+- πάλαι: hai tempo, xa antes
+- πάλιν: de novo
+- παραγίγνομαι, παραγενήσομαι, παρεγενόμην: presentarse, chegar
+- παρακαλέω, παρακαλέσω, παρεκάλεσα: pedir, rogar
+- παρασκευάζω: preparar
+- παρατρέπω, παρατρέψω, παρέτρεψα: desviar
+- παρεγίγνομαι, παραγενήσομαι, παρεγενόμην: presentarse, chegar
+- παρέχω, παρέξω, παρέσχον: ofrecer, presentar
+- παρθένος, -ου, ἡ: virxe, moza
+- Πασιφάη, -ης, ἡ: Pasífae
+- πάσχω, πείσομαι, ἔπαθον: padecer, pasar
+- πατρίς, -ίδος, ἡ: patria
+- πεδίον, -ου, τό: chaira, campo
+- πείθομαι, πείσομαι, ἐπεισάμην: obedecer
+- Πελίας, -ου, ὁ: Pelias
+- πέμπω: enviar
+- περιάγω, περιάξω, περιήγαγον: levar arredor, mostrar
+- Περίβοια, -ας, ἡ: Peribea
+- περόνη, -ης, ἡ: broche, fíbula
+- Περσεφόνη, -ης, ἡ: Perséfone
+- Πηνελόπη, -ης, ἡ: Penélope
+- πίπτω, πεσοῦμαι, ἔπεσον: caer
+- πιστός, -ή, -όν: fiel
+- Πλαταιεύς, -έως, ὁ: plateense
+- πλέω, πλεύσομαι, ἔπλευσα: navegar
+- πλήθυνω: multiplicar, aumentar
+- πλήν: agás, excepto
+- πλήρης, -ες: cheo
+- πληρόω: encher
+- πλήσσω, πλήξω, ἔπληξα: golpear
+- πλοῖον, -ου, τό: barco
+- πλούσιος, -α, -ον: rico
+- πλοῦτος, -ου, ὁ: riqueza
+- Πλούτων, -ωνος, ὁ: Plutón
+- πνίγω, πνίξω, ἔπνιξα: estrangular
+- ποιέω, ποιήσω, ἐποίησα: facer
+- ποιητής, -οῦ, ὁ: poeta
+- πολεμικός, -ή, -όν: guerreiro
+- πολέμιος, -α, -ον: inimigo, hostil
+- πολέμιος, -ου, ὁ: inimigo
+- πόλεμος, -ου, ὁ: guerra
+- πόλις, -εως, ἡ: cidade
+- πολίτης, -ου, ὁ: cidadán
+- πολλάκις: moitas veces
+- πολλαχῶς: de moitos xeitos
+- πόλος, -ου, ὁ: bóveda celeste, polo
+- Πολύβος, -ου, ὁ: Pólibo
+- Πολυμήδη, -ης, ἡ: Polimede
+- Πολυνείκης, -ους, ὁ: Polinices
+- πολύς, πολλή, πολύ: moito, numeroso
+- Πολύφημος, -ου, ὁ: Polifemo
+- πομπή, -ῆς, ἡ: escolta, condución
+- πονέω: traballar, fatigarse
+- πόνος, -ου, ὁ: fatiga, sufrimento
+- πόντος, -ου, ὁ: mar
+- πορεύομαι, πορεύσομαι, ἐπορεύθην: encamiñarse, marchar
+- Ποσειδῶν, -ῶνος, ὁ: Posidón
+- ποτε: unha vez, en certa ocasión
+- πρᾶγμα, -ατος, τό: asunto, feito
+- πραΰς, πραεῖα, πραΰ: suave, manso
+- Πρίαμος, -ου, ὁ: Príamo
+- προσάπτω, προσάψω, προσῆψα: atar a
+- προσβάλλω, προσβαλῶ, προσέβαλον: atacar
+- προσδέχομαι, προσδέξομαι, προσεδεξάμην: aceptar
+- προσέρχομαι, προσελεύσομαι, προσῆλθον: achegarse
+- προσέρχομαι, προσελεύσομαι, προσῆλθον: acercarse
+- προσχωρέω: achegarse
+- πρότερον: antes
+- πρῶτον: primeiro
+- πύλη, -ης, ἡ: porta
+- Πῦλος, -ου, ἡ: Pilos
+- πυνθάνομαι, πεύσομαι, ἐπυθόμην: informarse, preguntar
+- πωλέω: vender
+- ράβδος, -ου, ἡ: vara
+- Ῥαδάμανθυς, -υος, ὁ: Radamantis
+- ῥᾴθυμος, -ον: preguiceiro
+- ῥίπτω, ῥίψω, ἔρριψα: lanzar, arrojar
+- ῥόπαλον, -ου, τό: maza, garrote
+- ῥώμη, -ης, ἡ: forza física
+- Σαλαμίς, -ῖνος, ἡ: Salamina
+- Σάρδεις, -εων, αἱ: Sardes
+- σάρξ, σαρκός, ἡ: carne
+- Σειρήν, -ῆνος, ἡ: Sirena
+- σημαίνω, σημανῶ, ἐσήμηνα: indicar, anunciar
+- σήμερον: hoxe
+- σιγῇ: en silencio
+- σιδήρεος, -α, -ον: de ferro
+- Σικελία, -ας, ἡ: Sicilia
+- Σίμων, -ωνος, ὁ: Simón
+- Σίσυφος, -ου, ὁ: Sísifo
+- σῖτος, -ου, ὁ: trigo, alimento
+- σκάπτω, σκάψω, ἔσκαψα: cavar
+- σκηνή, -ῆς, ἡ: tenda
+- σκότος, -ους, τό: escuridade
+- Σκύλλα, -ης, ἡ: Escila
+- Σόλων, -ωνος, ὁ: Solón
+- σοφιστής, -οῦ, ὁ: sabio, intelectual
+- σοφός, -οῦ, ὁ: sabio
+- Σπάρτη, -ης, ἡ: Esparta
+- σπεῖρα, -ης, ἡ: rosca, almofada enroscada
+- σπένδω, σπείσω, ἔσπεισα: facer libación
+- σπεύδω: apressarse
+- σπόγγος, -ου, ὁ: esponxa
+- σπονδή, -ῆς, ἡ: libación
+- σπουδαῖος, -α, -ον: serio, aplicado
+- σταθμός, -οῦ, ὁ: establo
+- στέλλω, στελῶ, ἔστειλα: aparellar, izar
+- στενός, -ή, -όν: estreito
+- στέρνον, -ου, τό: peito
+- στήλη, -ης, ἡ: columna
+- στόμα, -ατος, τό: boca, abertura
+- στρατηγέω: mandar o exército
+- στρατηγός, -οῦ, ὁ: general
+- στρατιώτης, -ου, ὁ: soldado
+- στρατός, -οῦ, ὁ: exército
+- Στυμφαλίδες, -ων, αἱ: Estinfálides
+- συγγνώμη, -ης, ἡ: perdón, indulgencia
+- συμφορά, -ᾶς, ἡ: desgraza
+- συμφορώτατος, -η, -ον: o máis desgraciado
+- σύμφυτος, -ον: unido nun só corpo
+- συναθροίζω: reunir
+- συνέρχομαι, συνελεύσομαι, συνῆλθον: unirse, deitarse con
+- συντυγχάνω, συντεύξομαι, συνέτυχον: encontrarse con
+- συφεός, -οῦ, ὁ: cortello
+- σφάλλω, σφαλῶ, ἔσφηλα: enganar, facer caer
+- Σφίγξ, Σφιγγός, ἡ: Esfinxe
+- σφυρόν, -οῦ, τό: nocello
+- σχίζω, σχίσω, ἔσχισα: dispersar, fender
+- σώζω, σώσω, ἔσωσα: salvar
+- σῴζω, σώσω, ἔσωσα: salvar
+- σῶμα, -ατος, τό: corpo
+- σωτήρ, -ῆρος, ὁ: salvador
+- σωτηρία, -ας, ἡ: salvação
+- σώφρων, -ον: sensato
+- Τάνταλος, -ου, ὁ: Tántalo
+- Τάρταρος, -ου, ὁ: Tártaro
+- Τάρτησσος, -ου, ὁ: Tarteso
+- ταῦρος, -ου, ὁ: touro
+- τάφος, -ου, ὁ: tumba
+- ταχέως: rapidamente
+- τείνω, τενῶ, ἔτεινα: tender, estender
+- τέκνον, -ου, τό: fillo
+- τελευτάω: rematar, concluír
+- Τέλλος, -ου, ὁ: Telo
+- τέλος: finalmente
+- Τένεδος, -ου, ἡ: Ténedos
+- τέταρτον: en cuarto lugar
+- τετράπους, -ουν: de catro pés
+- τῇ ὑστεραίᾳ: ao día seguinte
+- Τηλέμαχος, -ου, ὁ: Telémaco
+- τίκτω, τέξομαι, ἔτεκον: dar a luz
+- τιμάω, τιμήσω, ἐτίμησα: honrar
+- τιμωρέω: castigar, vingar
+- τόλμα, -ης, ἡ: valor, ousadía
+- τόξον, -ου, τό: arco
+- τόπος, -ου, ὁ: lugar
+- τραγῳδία, -ας, ἡ: traxedia
+- τραῦμα, -ατος, τό: ferida
+- τρέχω, δραμοῦμαι, ἔδραμον: correr
+- τρήω, τρήσω, ἔτρησα: furar, perforar
+- τρίπους, -ουν: de tres pés
+- τρίτον: en terceiro lugar
+- Τροία, -ας, ἡ: Troia
+- τροπή, -ῆς, ἡ: derrota, posta en fuga
+- Τρῶες, -ώων, οἱ: troianos
+- τρώω, τρώσω, ἔτρωσα: ferir
+- τυγχάνω, τεύξομαι, ἔτυχον: acertar, alcanzar
+- τύπτω, τύψω, ἔτυψα: golpear
+- τύραννος, -ου, ὁ: tirano
+- τυφλός, -ή, -όν: cego
+- ὑβρίζω: ultraxar, tratar con insolencia
+- ὕβρις, -εως, ἡ: insolencia, desmesura
+- ὑγιής, -ές: san, intacto
+- ὕδρα, -ας, ἡ: hidra
+- ὕδωρ, ὕδατος, τό: auga
+- υἱός, -οῦ, ὁ: fillo
+- ὑπέχω, ὑποσχήσω, ὑπέσχον: soportar, sufrir
+- ὑπισχνέομαι, ὑποσχήσομαι, ὑπεσχόμην: prometer
+- ὕπνος, -ου, ὁ: sono
+- ὑπόβλητος, -ον: suposto, adoptado
+- ὑπομένω, ὑπομενῶ, ὑπέμεινα: soportar
+- ὕπτιος, -α, -ον: deitado de costas
+- ὗς, ὑός, ὁ: xabaril, porco bravo
+- ὕστερον: despois, máis tarde
+- Φαίακες, -ων, οἱ: Feacios
+- φαρμακίς, -ίδος, ἡ: feiticeira
+- φάρμακον, -ου, τό: filtro, droga, bebedizo
+- φέρω, οἴσω, ἤνεγκον: levar
+- φεύγω, φεύξομαι, ἔφυγον: fuxir
+- Φθία, -ας, ἡ: Ftia
+- φθογγή, -ῆς, ἡ: voz, son
+- φθόνος, -ου, ὁ: envexa
+- φιλέω: amar, apreciar
+- φίλος, -ου, ὁ: amigo
+- φλέγω: queimar, abrasar
+- φοβερός, -ά, -όν: aterrador
+- φοβέω / φοβοῦμαι: asustar / temer
+- φόβος, -ου, ὁ: medo
+- φοινικός, -ή, -όν: vermello escuro, púrpura
+- φονεύς, -έως, ὁ: homicida
+- Φρύξ, Φρυγός, ὁ: frixio
+- φύλαξ, -ακος, ὁ: gardián
+- φυλάσσομαι, φυλάξομαι, ἐφυλαξάμην: gardarse de
+- φυλάσσω, φυλάξω, ἐφύλαξα: gardar, vixiar
+- Φωκίς, -ίδος, ἡ: Fócide
+- χαίρω, χαρήσομαι, ἐχάρην: alegrarse
+- χαλεπός, -ή, -όν: duro, molesto
+- χαμαί: no chan
+- χαρίζομαι, χαριοῦμαι, ἐχαρισάμην: compracer, mostrar favor
+- Χάρυβδις, -εως, ἡ: Caribdis
+- χείρ, χειρός, ἡ: man
+- χράομαι, χρήσομαι, ἐχρησάμην: consultar, usar
+- χρὴ: é preciso
+- χρησμός, -οῦ, ὁ: oráculo
+- χρίω, χρίσω, ἔχρισα: untar, aplicar
+- χρόνος, -ου, ὁ: tempo
+- χρυσόμαλλος, -ον: de velo de ouro
+- χρυσός, -οῦ, ὁ: ouro
+- χώρα, -ας, ἡ: terra, país
+- χωρίον, -ου, τό: lugar, terreo
+- ψόφος, -ου, ὁ: ruído
+- ψυχή, -ῆς, ἡ: alma
+- ὧδε: así, deste xeito
+- ᾠδή, -ῆς, ἡ: canto, oda
+- ὦμος, -ου, ὁ: ombreiro
+- ὡς τάχιστα: o máis rápido posíbel
